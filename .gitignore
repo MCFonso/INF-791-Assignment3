@@ -1,0 +1,51 @@
+# --- Python caches & build artifacts ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.build/
+dist/
+build/
+*.egg-info/
+
+# --- Virtual envs ---
+.venv/
+venv/
+env/
+
+# --- Notebooks ---
+.ipynb_checkpoints/
+
+# --- Editors / IDEs ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- OS cruft ---
+.DS_Store
+Thumbs.db
+
+# --- Secrets & local config ---
+.env
+.env.*
+# GCP service account keys (NEVER commit)
+gcp/sa-key.json
+gcp/*.json
+Connor/gcp/sa-key.json
+Connor/gcp/*.json
+
+# --- Tool caches / reports ---
+# Translator cache file
+data/processed/cache_translations_en.json
+# Any ad-hoc diagnostics you might create
+*_inspect_*.py
+*_normalize_*.py
+
+# --- Logs ---
+*.log
+
+# --- Optional: ignore large generated outputs ---
+# (Keep raw inputs; commit processed/enriched only if your team wants)
+# data/outputs/*
