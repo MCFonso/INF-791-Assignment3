@@ -1,0 +1,4 @@
+Tokens: 17,894
+In-lex: 8,403
+Coverage: 46.96%
+Unique OOV: 134
