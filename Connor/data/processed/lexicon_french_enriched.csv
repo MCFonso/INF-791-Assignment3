@@ -157,7 +157,7 @@ kuhakula,castrer,castrer,4.0,4.0,Positif,positive,Verbe,verb,ok,castrate,auto:gc
 kutengula,circonsir,circonsir,4.0,4.0,Positif,positive,Verbe,verb,ok,to circumscribe,auto:gcp,gcp,ok
 kunungana,murmurer,murmurer,4.0,4.0,Positif,positive,Verbe,verb,ok,whisper,auto:gcp,gcp,ok
 kubobesha,murmur,murmur,4.0,4.0,Positif,positive,Verbe,verb,ok,whisper,auto:gcp,gcp,ok
-kuluatshisha, faire habiller,faire habiller,4.0,4.0,Positif,positive,Verbe,verb,ok,,,,
+kuluatshisha, faire habiller,faire habiller,4.0,4.0,Positif,positive,Verbe,verb,ok,nan,,,
 kuvuadika,habiller,habiller,4.0,4.0,Positif,positive,Verbe,verb,ok,dress,auto:gcp,gcp,ok
 munganga,infirmier,infirmier,4.0,4.0,Positif,positive,Mot,other,ok,nurse,auto:gcp,gcp,ok
 kumanyisha,informer,informer,4.0,4.0,Positif,positive,Verbe,verb,ok,inform,auto:gcp,gcp,ok
@@ -454,7 +454,7 @@ kosha,brûler,brûler,4.0,4.0,Positif,positive,Verbe,verb,ok,burn,auto:gcp,gcp,o
 luwongu,ravin,ravin,4.0,4.0,Positif,positive,Mot,other,ok,ravine,auto:gcp,gcp,ok
 bulalu,lit,lit,4.0,4.0,Positif,positive,Mot,other,ok,bed,auto:gcp,gcp,ok
 mitshi,arbre,arbre,4.0,4.0,Positif,positive,Mot,other,ok,TREE,auto:gcp,gcp,ok
-kushiya,laisser,laisser,4.0,4.0,Positif,positive,Verbe,verb,ok,to leave ,auto:gcp,gcp,ok
+kushiya,laisser,laisser,4.0,4.0,Positif,positive,Verbe,verb,ok,to leave,auto:gcp,gcp,ok
 dingeya,mangue,mangue,4.0,4.0,Positif,positive,Mot,other,ok,mango,auto:gcp,gcp,ok
 tshimuma,fruit,fruit,4.0,4.0,Positif,positive,Mot,other,ok,fruit,auto:gcp,gcp,ok
 kabuta,malette,malette,4.0,4.0,Positif,positive,Mot,other,ok,briefcase,auto:gcp,gcp,ok
@@ -505,7 +505,7 @@ kutuala,emener,emener,3.0,3.0,Positif,positive,Verbe,verb,ok,to take away,auto:g
 kuimansha,jetter,jetter,3.0,3.0,Positif,positive,Verbe,verb,ok,throw,auto:gcp,gcp,ok
 kubugna,plier,plier,3.0,3.0,Positif,positive,Verbe,verb,ok,bend,auto:gcp,gcp,ok
 kuenza,fair,fair,3.0,3.0,Positif,positive,Verbe,verb,ok,fair,auto:gcp,gcp,ok
-kulekala,laisser,laisser,3.0,3.0,Positif,positive,Verbe,verb,ok,to leave ,auto:gcp,gcp,ok
+kulekala,laisser,laisser,3.0,3.0,Positif,positive,Verbe,verb,ok,to leave,auto:gcp,gcp,ok
 kumvua,ecouter,ecouter,3.0,3.0,Positif,positive,Verbe,verb,ok,listen,auto:gcp,gcp,ok
 kukuluka,tomber,tomber,-1.0,-1.0,Negatif,negative,Verbe,verb,ok,to fall,auto:gcp,gcp,ok
 kunanga,aimer,aimer,2.0,2.0,Positif,positive,Verbe,verb,ok,to like,auto:gcp,gcp,ok
@@ -562,7 +562,7 @@ tshiomba,manioc,manioc,3.0,3.0,Positif,positive,Mot,other,ok,cassava,auto:gcp,gc
 mafuta,ouil,ouil,3.0,3.0,Positif,positive,Mot,other,ok,yes,auto:gcp,gcp,ok
 makala,braise,braise,3.0,3.0,Positif,positive,Mot,other,ok,braised,auto:gcp,gcp,ok
 mutshi,arbre,arbre,3.0,3.0,Positif,positive,Mot,other,ok,TREE,auto:gcp,gcp,ok
-dibwa,pierre,pierre,3.0,3.0,Positif,positive,Mot,other,ok,rock ,auto:gcp,gcp,ok
+dibwa,pierre,pierre,3.0,3.0,Positif,positive,Mot,other,ok,rock,auto:gcp,gcp,ok
 mashinda,hèrbe,hèrbe,3.0,3.0,Positif,positive,Mot,other,ok,grass,auto:gcp,gcp,ok
 nsoka,cailloux,cailloux,3.0,3.0,Positif,positive,Mot,other,ok,pebbles,auto:gcp,gcp,ok
 binu,jenoux,jenoux,3.0,3.0,Positif,positive,Mot,other,ok,jenoux,auto:gcp,gcp,ok
@@ -741,7 +741,7 @@ mala,instins,instins,5.0,5.0,Positif,positive,Mot,other,ok,instincts,auto:gcp,gc
 moyi,cœur,cœur,5.0,5.0,Positif,positive,Mot,other,ok,heart,auto:gcp,gcp,ok
 tshibi,porte,porte,5.0,5.0,Positif,positive,Mot,other,ok,door,auto:gcp,gcp,ok
 didishi,fénêtre,fénêtre,5.0,5.0,Positif,positive,Mot,other,ok,window,auto:gcp,gcp,ok
-mulonda,tuyau,tuyau,5.0,5.0,Positif,positive,Mot,other,ok,pipe ,auto:gcp,gcp,ok
+mulonda,tuyau,tuyau,5.0,5.0,Positif,positive,Mot,other,ok,pipe,auto:gcp,gcp,ok
 kuenza,faire,faire,5.0,5.0,Positif,positive,Verbe,verb,ok,TO DO,auto:gcp,gcp,ok
 kuamba,dire,dire,5.0,5.0,Positif,positive,Verbe,verb,ok,say,auto:gcp,gcp,ok
 nyunyi,oiseau,oiseau,5.0,5.0,Positif,positive,Mot,other,ok,bird,auto:gcp,gcp,ok
@@ -963,7 +963,7 @@ butumbi,gloire,gloire,3.0,3.0,Positif,positive,Mot,other,ok,glory,auto:gcp,gcp,o
 lupingu,statue,statue,3.0,3.0,Positif,positive,Mot,other,ok,statue,auto:gcp,gcp,ok
 muishi,flame,flame,3.0,3.0,Positif,positive,Mot,other,ok,flame,auto:gcp,gcp,ok
 mala,alcool,alcool,3.0,3.0,Positif,positive,Mot,other,ok,alcohol,auto:gcp,gcp,ok
-dibua,pierre,pierre,3.0,3.0,Positif,positive,Mot,other,ok,rock ,auto:gcp,gcp,ok
+dibua,pierre,pierre,3.0,3.0,Positif,positive,Mot,other,ok,rock,auto:gcp,gcp,ok
 mutshi,arbre,arbre,3.0,3.0,Positif,positive,Mot,other,ok,TREE,auto:gcp,gcp,ok
 dilata,tole,tole,3.0,3.0,Positif,positive,Mot,other,ok,sheet metal,auto:gcp,gcp,ok
 njila,route,route,3.0,3.0,Positif,positive,Mot,other,ok,road,auto:gcp,gcp,ok
@@ -1671,7 +1671,7 @@ Kunyungulaka,  Tourner,tourner,3.0,3.0,Positif,positive,Mot,other,ok,turn,auto
 	Tshisamba,  Origine,origine,3.0,3.0,Positif,positive,Mot,other,ok,origin,auto:gcp,gcp,ok
 	Tshikadilu,  Comportement,comportement,2.0,2.0,Positif,positive,Mot,other,ok,behavior,auto:gcp,gcp,ok
 	Manayi,  Jeu,jeu,2.0,2.0,Positif,positive,Mot,other,ok,game,auto:gcp,gcp,ok
-	Tshibulundu,  Ballon,ballon,1.0,1.0,Positif,positive,Mot,other,ok,ball ,auto:gcp,gcp,ok
+	Tshibulundu,  Ballon,ballon,1.0,1.0,Positif,positive,Mot,other,ok,ball,auto:gcp,gcp,ok
 Cingu_mapanga,  Cigale,cigale,1.0,1.0,Positif,positive,Mot,other,ok,cicada,auto:gcp,gcp,ok
 	Kuhanga,  Echoué,echoué,3.0,3.0,Positif,positive,Mot,other,ok,failed,auto:gcp,gcp,ok
 	Kuhangila,  Manqué,manqué,-4.0,-4.0,Negatif,negative,Mot,other,ok,lack,auto:gcp,gcp,ok
@@ -1796,10 +1796,10 @@ kuhotela,Importuner,importuner,-5.0,-5.0,Negatif,negative,Verbe,verb,ok,to bothe
 tshisanji,Radio,radio,3.0,3.0,Positif,positive,Mot,other,ok,radio,auto:gcp,gcp,ok
 mukaji,Femme,femme,3.0,3.0,Positif,positive,Mot,other,ok,women,auto:gcp,gcp,ok
 buimpa,Beauté,beauté,3.0,3.0,Positif,positive,Mot,other,ok,beauty,auto:gcp,gcp,ok
-ndundu,Ballon,ballon,3.0,3.0,Positif,positive,Mot,other,ok,ball ,auto:gcp,gcp,ok
+ndundu,Ballon,ballon,3.0,3.0,Positif,positive,Mot,other,ok,ball,auto:gcp,gcp,ok
 bulaba,Terre,terre,3.0,3.0,Positif,positive,Mot,other,ok,earth,auto:gcp,gcp,ok
 duilu,Ciel,ciel,3.0,3.0,Positif,positive,Mot,other,ok,sky,auto:gcp,gcp,ok
-dibua,Pierre,pierre,3.0,3.0,Positif,positive,Mot,other,ok,rock ,auto:gcp,gcp,ok
+dibua,Pierre,pierre,3.0,3.0,Positif,positive,Mot,other,ok,rock,auto:gcp,gcp,ok
 tshinkeunda,Papayer,papayer,3.0,3.0,Positif,positive,Verbe,verb,ok,papaya,auto:gcp,gcp,ok
 tshiadi,Poitrine,poitrine,3.0,3.0,Positif,positive,Mot,other,ok,chest,auto:gcp,gcp,ok
 tshilama,Pagne,pagne,3.0,3.0,Positif,positive,Mot,other,ok,loincloth,auto:gcp,gcp,ok
@@ -1860,7 +1860,7 @@ tshito,Plâtre,plâtre,3.0,3.0,Positif,positive,Mot,other,ok,plaster,auto:gcp,gc
 mputa,Plaie,plaie,3.0,3.0,Positif,positive,Mot,other,ok,wound,auto:gcp,gcp,ok
 tshimanu,Mur,mur,3.0,3.0,Positif,positive,Mot,other,ok,wall,auto:gcp,gcp,ok
 tshingoma,Arme,arme,-3.0,-3.0,Negatif,negative,Mot,other,ok,armed,auto:gcp,gcp,ok
-kulekela,Laisser,laisser,5.0,5.0,Positif,positive,Mot,other,ok,to leave ,auto:gcp,gcp,ok
+kulekela,Laisser,laisser,5.0,5.0,Positif,positive,Mot,other,ok,to leave,auto:gcp,gcp,ok
 kuehuka,Eviter,eviter,5.0,5.0,Positif,positive,Mot,other,ok,avoid,auto:gcp,gcp,ok
 muinshi,Pilon,pilon,5.0,5.0,Positif,positive,Mot,other,ok,pestle,auto:gcp,gcp,ok
 muhanji,Malaxeur,malaxeur,5.0,5.0,Positif,positive,Mot,other,ok,mixer,auto:gcp,gcp,ok
@@ -2042,7 +2042,7 @@ Muenalukuna,adversaire,adversaire,-1.0,-1.0,Negatif,negative,Mot,other,ok,oppone
 Dibikidibua,vocation,vocation,1.0,1.0,Positif,positive,Mot,other,ok,vocation,auto:gcp,gcp,ok
 Nsangilu,assemblée,assemblée,1.0,1.0,Positif,positive,Mot,other,ok,assembly,auto:gcp,gcp,ok
 Musoko,bourgeoise,bourgeoise,1.0,1.0,Positif,positive,Mot,other,ok,bourgeois,auto:gcp,gcp,ok
-Tshibombu,bourse,bourse,1.0,1.0,Positif,positive,Mot,other,ok,sotck exchange ,auto:gcp,gcp,ok
+Tshibombu,bourse,bourse,1.0,1.0,Positif,positive,Mot,other,ok,sotck exchange,auto:gcp,gcp,ok
 Ditamba,branche,branche,1.0,1.0,Positif,positive,Mot,other,ok,branch,auto:gcp,gcp,ok
 Mutoyi,bruit,bruit,1.0,1.0,Positif,positive,Mot,other,ok,noise,auto:gcp,gcp,ok
 Tshikutu,buisson,buisson,1.0,1.0,Positif,positive,Mot,other,ok,bush,auto:gcp,gcp,ok
@@ -2059,7 +2059,7 @@ Tshimuenenu,aspect,aspect,5.0,5.0,Positif,positive,Mot,other,ok,appearance,auto:
 Mushipianganyi,assassin,assassin,-3.0,-3.0,Negatif,negative,Mot,other,ok,assassin,auto:gcp,gcp,ok
 Mikalu,borne,borne,1.0,1.0,Positif,positive,Mot,other,ok,terminal,auto:gcp,gcp,ok
 Musoko,bourgeoise,bourgeoise,1.0,1.0,Positif,positive,Mot,other,ok,bourgeois,auto:gcp,gcp,ok
-Tshibombu,bourse,bourse,1.0,1.0,Positif,positive,Mot,other,ok,sotck exchange ,auto:gcp,gcp,ok
+Tshibombu,bourse,bourse,1.0,1.0,Positif,positive,Mot,other,ok,sotck exchange,auto:gcp,gcp,ok
 Ditamba,branche,branche,1.0,1.0,Positif,positive,Mot,other,ok,branch,auto:gcp,gcp,ok
 Mutoyi,bruit,bruit,1.0,1.0,Positif,positive,Mot,other,ok,noise,auto:gcp,gcp,ok
 Tshikutu,buisson,buisson,1.0,1.0,Positif,positive,Mot,other,ok,bush,auto:gcp,gcp,ok
@@ -2069,7 +2069,7 @@ Musonguedianganyi,calomniateur,calomniateur,-3.0,-3.0,Negatif,negative,Mot,other
 Tshitudilu,camp,camp,2.0,2.0,Positif,positive,Mot,other,ok,camp,auto:gcp,gcp,ok
 Kapita,capitaine,capitaine,2.0,2.0,Positif,positive,Mot,other,ok,captain,auto:gcp,gcp,ok
 Mupika,captif,captif,2.0,2.0,Positif,positive,Mot,other,ok,captive,auto:gcp,gcp,ok
-Tshibombu,bourse,bourse,2.0,2.0,Positif,positive,Mot,other,ok,sotck exchange ,auto:gcp,gcp,ok
+Tshibombu,bourse,bourse,2.0,2.0,Positif,positive,Mot,other,ok,sotck exchange,auto:gcp,gcp,ok
 Ditamba,branche,branche,2.0,2.0,Positif,positive,Mot,other,ok,branch,auto:gcp,gcp,ok
 Mutoyi,bruit,bruit,2.0,2.0,Positif,positive,Mot,other,ok,noise,auto:gcp,gcp,ok
 Tshikutu,buisson,buisson,2.0,2.0,Positif,positive,Mot,other,ok,bush,auto:gcp,gcp,ok
@@ -2093,7 +2093,7 @@ Tshipiminu,balance,balance,4.0,4.0,Positif,positive,Mot,other,ok,balance,auto:gc
 Tshilulu,bande,bande,4.0,4.0,Positif,positive,Mot,other,ok,band,auto:gcp,gcp,ok
 Mikalu,borne,borne,4.0,4.0,Positif,positive,Mot,other,ok,terminal,auto:gcp,gcp,ok
 Musoko,bourgeoise,bourgeoise,4.0,4.0,Positif,positive,Mot,other,ok,bourgeois,auto:gcp,gcp,ok
-Tshibombu,bourse,bourse,4.0,4.0,Positif,positive,Mot,other,ok,sotck exchange ,auto:gcp,gcp,ok
+Tshibombu,bourse,bourse,4.0,4.0,Positif,positive,Mot,other,ok,sotck exchange,auto:gcp,gcp,ok
 Ditamba,branche,branche,4.0,4.0,Positif,positive,Mot,other,ok,branch,auto:gcp,gcp,ok
 Mutoyi,bruit,bruit,4.0,4.0,Positif,positive,Mot,other,ok,noise,auto:gcp,gcp,ok
 Tshikutu,buisson,buisson,4.0,4.0,Positif,positive,Mot,other,ok,bush,auto:gcp,gcp,ok
@@ -2110,7 +2110,7 @@ Tshimuenenu,aspect,aspect,1.0,1.0,Positif,positive,Mot,other,ok,appearance,auto:
 Mushipianganyi,assassin,assassin,-9.0,-9.0,Negatif,negative,Mot,other,ok,assassin,auto:gcp,gcp,ok
 Mikalu,borne,borne,4.0,4.0,Positif,positive,Mot,other,ok,terminal,auto:gcp,gcp,ok
 Musoko,bourgeoise,bourgeoise,4.0,4.0,Positif,positive,Mot,other,ok,bourgeois,auto:gcp,gcp,ok
-Tshibombu,bourse,bourse,4.0,4.0,Positif,positive,Mot,other,ok,sotck exchange ,auto:gcp,gcp,ok
+Tshibombu,bourse,bourse,4.0,4.0,Positif,positive,Mot,other,ok,sotck exchange,auto:gcp,gcp,ok
 Ditamba,branche,branche,4.0,4.0,Positif,positive,Mot,other,ok,branch,auto:gcp,gcp,ok
 Mutoyi,bruit,bruit,4.0,4.0,Positif,positive,Mot,other,ok,noise,auto:gcp,gcp,ok
 Tshikutu,buisson,buisson,4.0,4.0,Positif,positive,Mot,other,ok,bush,auto:gcp,gcp,ok
@@ -2365,7 +2365,7 @@ mukanda,Épître,épître,3.0,3.0,Positif,positive,Mot,other,ok,epistle,auto:gcp
 muyidi,Disciple,disciple,3.0,3.0,Positif,positive,Mot,other,ok,disciple,auto:gcp,gcp,ok
 mulongi,Élève,élève,3.0,3.0,Positif,positive,Mot,other,ok,pupil,auto:gcp,gcp,ok
 kamua,Moustique,moustique,3.0,3.0,Positif,positive,Mot,other,ok,mosquito,auto:gcp,gcp,ok
-Njinji,Mouche,mouche,3.0,3.0,Positif,positive,Mot,other,ok,fly ,auto:gcp,gcp,ok
+Njinji,Mouche,mouche,3.0,3.0,Positif,positive,Mot,other,ok,fly,auto:gcp,gcp,ok
 kamonakamba,Journaliste,journaliste,3.0,3.0,Positif,positive,Mot,other,ok,journalist,auto:gcp,gcp,ok
 muinvi,Voleur,voleur,-6.0,-6.0,Negatif,negative,Mot,other,ok,thief,auto:gcp,gcp,ok
 Diyi,Volume,volume,2.0,2.0,Positif,positive,Mot,other,ok,volume,auto:gcp,gcp,ok
@@ -2653,7 +2653,7 @@ ciluka,Réseau,réseau,4.0,4.0,Positif,positive,Mot,other,ok,network,auto:gcp,gc
 peta,Recevoir,recevoir,4.0,4.0,Positif,positive,Verbe,verb,ok,receive,auto:gcp,gcp,ok
 aaluja,Remettre,remettre,4.0,4.0,Positif,positive,Verbe,verb,ok,to put back,auto:gcp,gcp,ok
 kukatula,Retirer,retirer,4.0,4.0,Positif,positive,Verbe,verb,ok,withdraw,auto:gcp,gcp,ok
-kucika,,,4.0,4.0,Positif,positive,Verbe,verb,ok,,,,
+kucika,,nan,4.0,4.0,Positif,positive,Verbe,verb,ok,nan,,,
 kubombola,Jeter,jeter,4.0,4.0,Positif,positive,Verbe,verb,ok,throw,auto:gcp,gcp,ok
 mulenga,Joli,joli,4.0,4.0,Positif,positive,Verbe,verb,ok,pretty,auto:gcp,gcp,ok
 cipyacipya,Nouveau,nouveau,4.0,4.0,Positif,positive,Mot,other,ok,new,auto:gcp,gcp,ok
@@ -2770,7 +2770,7 @@ CilambaPond,Pond,pond,1.0,1.0,Positif,positive,Mot,other,ok,pond,auto:gcp,gcp,ok
 Cisamba,origine,origine,1.0,1.0,Positif,positive,Mot,other,ok,origin,auto:gcp,gcp,ok
 Ciskadilu,Comportement,comportement,1.0,1.0,Positif,positive,Mot,other,ok,behavior,auto:gcp,gcp,ok
 Manayi,Jeux,jeux,1.0,1.0,Positif,positive,Mot,other,ok,games,auto:gcp,gcp,ok
-Cibulundu,Ballon,ballon,1.0,1.0,Positif,positive,Mot,other,ok,ball ,auto:gcp,gcp,ok
+Cibulundu,Ballon,ballon,1.0,1.0,Positif,positive,Mot,other,ok,ball,auto:gcp,gcp,ok
 Cingu_mapanga,cigale,cigale,1.0,1.0,Positif,positive,Mot,other,ok,cicada,auto:gcp,gcp,ok
 Kuhanga,Echoué,echoué,-1.0,-1.0,Negatif,negative,Verbe,verb,ok,failed,auto:gcp,gcp,ok
 Dikenga,Souffrance,souffrance,-1.0,-1.0,Negatif,negative,Verbe,verb,ok,suffering,auto:gcp,gcp,ok
@@ -2876,7 +2876,7 @@ Cilamba,Pond,pond,1.0,1.0,Positif,positive,Mot,other,ok,pond,auto:gcp,gcp,ok
 Cisamba,origine,origine,1.0,1.0,Positif,positive,Mot,other,ok,origin,auto:gcp,gcp,ok
 Ciskadilu,Comportement,comportement,1.0,1.0,Positif,positive,Mot,other,ok,behavior,auto:gcp,gcp,ok
 Manayi,Jeux,jeux,1.0,1.0,Positif,positive,Mot,other,ok,games,auto:gcp,gcp,ok
-Cibulundu,Ballon,ballon,1.0,1.0,Positif,positive,Mot,other,ok,ball ,auto:gcp,gcp,ok
+Cibulundu,Ballon,ballon,1.0,1.0,Positif,positive,Mot,other,ok,ball,auto:gcp,gcp,ok
 Cilumana,Tshichose,tshichose,1.0,1.0,Positif,positive,Mot,other,ok,tshichose,auto:gcp,gcp,ok
 Cingu_mapanga,cigale,cigale,1.0,1.0,Positif,positive,Mot,other,ok,cicada,auto:gcp,gcp,ok
 Kuhanga,Echoué,echoué,1.0,1.0,Positif,positive,Verbe,verb,ok,failed,auto:gcp,gcp,ok
@@ -2991,12 +2991,12 @@ wewa,toi,toi,0.0,0.0,Neutre,neutral,Mot,other,ok,You,auto:gcp,gcp,ok
 yeya,lui,lui,0.0,0.0,Neutre,neutral,Mot,other,ok,him,auto:gcp,gcp,ok
 Tshia,de,de,0.0,0.0,Neutre,neutral,Mot,other,ok,of,auto:gcp,gcp,ok
 Ndi ne,j'ai,j'ai,0.0,0.0,Neutre,neutral,Verbe,verb,ok,I have,auto:gcp,gcp,ok
-Udi ne,tu as,tu as,0.0,0.0,Neutre,neutral,Verbe,verb,ok,,,,
-uudi ne,il a,il a,0.0,0.0,Neutre,neutral,Verbe,verb,ok,,,,
-Tudi ne,elle a,elle a,0.0,0.0,Neutre,neutral,Verbe,verb,ok,,,,
-Nudi ne,nous avons,nous avons,0.0,0.0,Neutre,neutral,Verbe,verb,ok,,,,
-badi ne,vous avez,vous avez,0.0,0.0,Neutre,neutral,Verbe,verb,ok,,,,
-Tshiabu,pour eux,pour eux,0.0,0.0,Neutre,neutral,Mot,other,ok,,,,
+Udi ne,tu as,tu as,0.0,0.0,Neutre,neutral,Verbe,verb,ok,nan,,,
+uudi ne,il a,il a,0.0,0.0,Neutre,neutral,Verbe,verb,ok,nan,,,
+Tudi ne,elle a,elle a,0.0,0.0,Neutre,neutral,Verbe,verb,ok,nan,,,
+Nudi ne,nous avons,nous avons,0.0,0.0,Neutre,neutral,Verbe,verb,ok,nan,,,
+badi ne,vous avez,vous avez,0.0,0.0,Neutre,neutral,Verbe,verb,ok,nan,,,
+Tshiabu,pour eux,pour eux,0.0,0.0,Neutre,neutral,Mot,other,ok,nan,,,
 ni,et,et,0.0,0.0,Neutre,neutral,Mot,other,ok,And,auto:gcp,gcp,ok
 wa lukunukunu,zélateur,zélateur,-2.0,-2.0,Negatif,negative,Mot,other,ok,zealot,auto:gcp,gcp,ok
 wa ludimi lupepele,eloquant,eloquant,7.0,7.0,Positif,positive,Mot,other,ok,eloquent,auto:gcp,gcp,ok
@@ -3047,7 +3047,7 @@ udi kayi ne kudikanda,incontinent,incontinent,0.0,0.0,Neutre,neutral,Mot,other,o
 udi kayi ne ditekemena kabidi,desesperer,desesperer,-1.0,-1.0,Negatif,negative,Mot,other,ok,to despair,auto:gcp,gcp,ok
 udi kayi ne bualu,innocent,innocent,2.0,2.0,Positif,positive,Mot,other,ok,innocent,auto:gcp,gcp,ok
 udi kayi mutengula,incircincis,incircincis,-2.0,-2.0,Negatif,negative,Mot,other,ok,uncircumcised,auto:gcp,gcp,ok
-udi kayi mushindame,incertain dans ses pensées,incertain dans ses pensées,0.0,0.0,Neutre,neutral,Mot,other,ok,,,,
+udi kayi mushindame,incertain dans ses pensées,incertain dans ses pensées,0.0,0.0,Neutre,neutral,Mot,other,ok,nan,,,
 udi kayi mumanye mukanda,illétré,illétré,-3.0,-3.0,Negatif,negative,Mot,other,ok,illiterate,auto:gcp,gcp,ok
 udi kayi muakanangane,indigne,indigne,0.0,0.0,Neutre ,neutral,Mot,other,ok,unworthy,auto:gcp,gcp,ok
 udi kayi disakidila,ingrat,ingrat,-1.0,-1.0,Neutre ,neutral,Mot,other,ok,ungrateful,auto:gcp,gcp,ok
@@ -3095,14 +3095,14 @@ tshitekelu tshia mikolu,marche-pied,marche-pied,8.0,8.0,Positif,positive,Mot,oth
 tshitapitapi,onguent,onguent,3.0,3.0,Positif,positive,Mot,other,ok,ointment,auto:gcp,gcp,ok
 tshitangidilu,theatre,theatre,4.0,4.0,Positif,positive,Mot,other,ok,theater,auto:gcp,gcp,ok
 tshitambe buimpe,meilleur,meilleur,3.0,3.0,Positif,positive,Mot,other,ok,best,auto:gcp,gcp,ok
-tshitambala,foulard de tete,foulard de tete,0.0,0.0,Neutre,neutral,Mot,other,ok,,,,
+tshitambala,foulard de tete,foulard de tete,0.0,0.0,Neutre,neutral,Mot,other,ok,nan,,,
 tshitalale,doux,doux,0.0,0.0,Neutre,neutral,Mot,other,ok,soft,auto:gcp,gcp,ok
 tshitalale,froid,froid,0.0,0.0,Neutre,neutral,Mot,other,ok,cold,auto:gcp,gcp,ok
 tshitaku tshia bantu,poupe,poupe,0.0,0.0,Neutre,neutral,Mot,other,ok,stern,auto:gcp,gcp,ok
 tshitadi,impot,impot,0.0,0.0,Neutre,neutral,Mot,other,ok,tax,auto:gcp,gcp,ok
 tshisumbu,groupe,groupe,0.0,0.0,Neutre,neutral,Mot,other,ok,band,auto:gcp,gcp,ok
 tshisumbu tshia bantu,population,population,0.0,0.0,Neutre,neutral,Mot,other,ok,population,auto:gcp,gcp,ok
-tshisumbu tshia bantu,amas de peuple,amas de peuple,0.0,0.0,Neutre,neutral,Mot,other,ok,,,,
+tshisumbu tshia bantu,amas de peuple,amas de peuple,0.0,0.0,Neutre,neutral,Mot,other,ok,nan,,,
 tshisumbu tshia nyama,troupeau,troupeau,0.0,0.0,Neutre,neutral,Mot,other,ok,herd,auto:gcp,gcp,ok
 tshisumbu tshia masalayi ,cohorte,cohorte,0.0,0.0,Neutre,neutral,Mot,other,ok,cohort,auto:gcp,gcp,ok
 tshisumbu tshia masalayi ,legion,legion,0.0,0.0,Neutre,neutral,Verbe,verb,ok,legion,auto:gcp,gcp,ok
@@ -3174,7 +3174,7 @@ tshinu,mortier,mortier,0.0,0.0,Neutre,neutral,Mot,other,ok,mortar,auto:gcp,gcp,o
 tshitununtunu,subi,subi,5.0,5.0,Positif,positive,Mot,other,ok,suffered,auto:gcp,gcp,ok
 tshintu ,affaire,affaire,0.0,0.0,Neutre,neutral,Mot,other,ok,affair,auto:gcp,gcp,ok
 tshiena bualu,affaire,affaire,0.0,0.0,Neutre,neutral,Mot,other,ok,affair,auto:gcp,gcp,ok
-tshintu tshinyenga,chose estorquée,chose estorquée,0.0,0.0,Neutre,neutral,Mot,other,ok,,,,
+tshintu tshinyenga,chose estorquée,chose estorquée,0.0,0.0,Neutre,neutral,Mot,other,ok,nan,,,
 tshintu tshia mvinta,arme,arme,0.0,0.0,Neutre,neutral,Mot,other,ok,armed,auto:gcp,gcp,ok
 tshintu tshia luse,aumône,aumône,3.0,3.0,Positif,positive,Mot,other,ok,alms,auto:gcp,gcp,ok
 tshintu tshia tshidi muntu upete,pocession,pocession,3.0,3.0,Positif,positive,Mot,other,ok,possession,auto:gcp,gcp,ok
@@ -3213,15 +3213,15 @@ tshinkutu,manteau,manteau,8.0,8.0,Positif,positive,Mot,other,ok,coat,auto:gcp,gc
 tshikusu,ver,ver,3.0,3.0,Positif,positive,Mot,other,ok,worm,auto:gcp,gcp,ok
 tshikumbane,complet,complet,4.0,4.0,Positif,positive,Mot,other,ok,complete,auto:gcp,gcp,ok
 tshikumbane,adapté,adapté,3.0,3.0,Positif,positive,Mot,other,ok,adapted,auto:gcp,gcp,ok
-tshikumbane,qui convient,qui convient,0.0,0.0,Neutre,neutral,Mot,other,ok,,,,
+tshikumbane,qui convient,qui convient,0.0,0.0,Neutre,neutral,Mot,other,ok,nan,,,
 tshiuja,complet,complet,0.0,0.0,Neutre,neutral,Mot,other,ok,complete,auto:gcp,gcp,ok
 tshuja,plein,plein,0.0,0.0,Neutre,neutral,Mot,other,ok,full,auto:gcp,gcp,ok
-tshikumbane,assez util,assez util,0.0,0.0,Neutre,neutral,Mot,other,ok,,,,
+tshikumbane,assez util,assez util,0.0,0.0,Neutre,neutral,Mot,other,ok,nan,,,
 tshokoyeke,immonde,immonde,0.0,0.0,Neutre,neutral,Mot,other,ok,filthy,auto:gcp,gcp,ok
 tshikowelu,vetement,vetement,0.0,0.0,Neutre,neutral,Mot,other,ok,garment,auto:gcp,gcp,ok
 tshikote,cumin,cumin,0.0,0.0,Neutre,neutral,Mot,other,ok,cumin,auto:gcp,gcp,ok
 tshikondo tshimpe,opportun,opportun,0.0,0.0,Neutre,neutral,Mot,other,ok,opportun,auto:gcp,gcp,ok
-tshikondo tshimpe,bon moment,bon moment,0.0,0.0,Neutre,neutral,Mot,other,ok,,,,
+tshikondo tshimpe,bon moment,bon moment,0.0,0.0,Neutre,neutral,Mot,other,ok,nan,,,
 tshikondo etshi,actuel,actuel,0.0,0.0,Neutre,neutral,Mot,other,ok,current,auto:gcp,gcp,ok
 tshikondo,moment,moment,0.0,0.0,Neutre,neutral,Verbe,verb,ok,moment,auto:gcp,gcp,ok
 tshikondo,ocassion,ocassion,0.0,0.0,Neutre,neutral,Verbe,verb,ok,occasion,auto:gcp,gcp,ok
@@ -3252,7 +3252,7 @@ tshiji,colere,colere,0.0,0.0,Neutre,neutral,Mot,other,ok,anger,auto:gcp,gcp,ok
 tshiji,fureur,fureur,0.0,0.0,Neutre,neutral,Mot,other,ok,fury,auto:gcp,gcp,ok
 tshifulu tshia butunmbi,diadème,diadème,-5.0,-5.0,Negatif,negative,Mot,other,ok,tiara,auto:gcp,gcp,ok
 tshifulu  ,casque,casque,-8.0,-8.0,Negatif,negative,Mot,other,ok,helmet,auto:gcp,gcp,ok
-tshifukibua tshipia tshipia,nouvelle creature,nouvelle creature,0.0,0.0,Neutre ,neutral,Mot,other,ok,,,,
+tshifukibua tshipia tshipia,nouvelle creature,nouvelle creature,0.0,0.0,Neutre ,neutral,Mot,other,ok,nan,,,
 tshifuafua,mortel,mortel,6.0,6.0,Positif,positive,Mot,other,ok,mortal,auto:gcp,gcp,ok
 tshieya,arhes,arhes,-1.0,-1.0,Negatif,negative,Mot,other,ok,arhes,auto:gcp,gcp,ok
 tshieya,garant,garant,3.0,3.0,Positif,positive,Mot,other,ok,guarantor,auto:gcp,gcp,ok
@@ -3262,7 +3262,7 @@ tshienzedi,action,action,3.0,3.0,Positif,positive,Mot,other,ok,action,auto:gcp,g
 malu,œuvres,œuvres,0.0,0.0,neutrre ,neutral,Mot,other,ok,works,auto:gcp,gcp,ok
 tshiendelu,parvis,parvis,0.0,0.0,Neutre ,neutral,Mot,other,ok,forecourt,auto:gcp,gcp,ok
 tshiendelele,eternellement,eternellement,0.0,0.0,Neutre,neutral,Mot,other,ok,eternally,auto:gcp,gcp,ok
-tshiendelele,à jamais,à jamais,1.0,1.0,Positif,positive,Mot,other,ok,,,,
+tshiendelele,à jamais,à jamais,1.0,1.0,Positif,positive,Mot,other,ok,nan,,,
 tshiena lomo,latin,latin,4.0,4.0,Positif,positive,Mot,other,ok,Latin,auto:gcp,gcp,ok
 tshiendelele,jamais,jamais,3.0,3.0,Positif,positive,Mot,other,ok,Never,auto:gcp,gcp,ok
 tshiena bualu,sujet,sujet,0.0,0.0,Neutre,neutral,Mot,other,ok,subject,auto:gcp,gcp,ok
@@ -3284,7 +3284,7 @@ tshidi tshinyanguka,detruit,detruit,-1.0,-1.0,Negatif,negative,Mot,other,ok,dest
 tshidi tshitupu,vide,vide,2.0,2.0,Positif,positive,Mot,other,ok,empty,auto:gcp,gcp,ok
 tshitupu,vide,vide,-2.0,-2.0,Negatif,negative,Mot,other,ok,empty,auto:gcp,gcp,ok
 tshidi tshitabujibua,supportable,supportable,0.0,0.0,Neutre,neutral,Mot,other,ok,bearable,auto:gcp,gcp,ok
-tshidi tshishala tshiendelele,ce qui est eternel,ce qui est eternel,-3.0,-3.0,Negatif,negative,Mot,other,ok,,,,
+tshidi tshishala tshiendelele,ce qui est eternel,ce qui est eternel,-3.0,-3.0,Negatif,negative,Mot,other,ok,nan,,,
 tshidi tshimpe be,excellent,excellent,0.0,0.0,Neutre ,neutral,Mot,other,ok,excellent,auto:gcp,gcp,ok
 tshidi tshilueka,visible,visible,-1.0,-1.0,Neutre ,neutral,Mot,other,ok,visible,auto:gcp,gcp,ok
 tshidi tshikulukulu,vieux,vieux,0.0,0.0,Neutre,neutral,Mot,other,ok,old,auto:gcp,gcp,ok
@@ -3374,7 +3374,7 @@ Kukosa ne nsele,Scier,scier,0.0,0.0,Neutre,neutral,Verbe,verb,ok,to saw,auto:gcp
 Kaminyiminyi,Scorpion,scorpion,-5.0,-5.0,Negatif,negative,Mot,other,ok,Scorpio,auto:gcp,gcp,ok
 Mufundi,Scribe,scribe,0.0,0.0,Neutre,neutral,Mot,other,ok,scribe,auto:gcp,gcp,ok
 Tshisonga,Sculptée,sculptée,0.0,0.0,Neutre,neutral,Mot,other,ok,sculpted,auto:gcp,gcp,ok
-Kueyemena,Se confier,se confier,4.0,4.0,Positif,positive,Verbe,verb,ok,,,,
+Kueyemena,Se confier,se confier,4.0,4.0,Positif,positive,Verbe,verb,ok,nan,,,
 Kushikama,Séant,séant,0.0,0.0,Neutre,neutral,Verbe,verb,ok,sitting,auto:gcp,gcp,ok
 Tshume,Sec,sec,-2.0,-2.0,Negatif,negative,Mot,other,ok,dry,auto:gcp,gcp,ok
 Tshiume,Sec,sec,-2.0,-2.0,Negatif,negative,Mot,other,ok,dry,auto:gcp,gcp,ok
@@ -3474,7 +3474,7 @@ Makumi muandamutekete ne itanu,Soixante-quinze,soixante-quinze,0.0,0.0,Neutre,ne
 Panshi,Sol,sol,0.0,0.0,Neutre,neutral,Mot,other,ok,ground,auto:gcp,gcp,ok
 Disolayi,Soldat,soldat,0.0,0.0,Neutre,neutral,Mot,other,ok,soldier,auto:gcp,gcp,ok
 Diba,Soleil,soleil,4.0,4.0,Positif,positive,Mot,other,ok,sun,auto:gcp,gcp,ok
-Diba dia buakane,Soleil de justice,soleil de justice,7.0,7.0,Positif,positive,Mot,other,ok,,,,
+Diba dia buakane,Soleil de justice,soleil de justice,7.0,7.0,Positif,positive,Mot,other,ok,nan,,,
 Bikole,Solide,solide,3.0,3.0,Positif,positive,Mot,other,ok,solid,auto:gcp,gcp,ok
 Kulomba,Solliciter,solliciter,-1.0,-1.0,Negatif,negative,Verbe,verb,ok,request,auto:gcp,gcp,ok
 Kukeba,Solliciter,solliciter,0.0,0.0,Neutre,neutral,Verbe,verb,ok,request,auto:gcp,gcp,ok
@@ -3500,8 +3500,8 @@ Kuela mpungi,Sonner,sonner,0.0,0.0,Neutre,neutral,Verbe,verb,ok,ring,auto:gcp,gc
 Nshobo,Sort,sort,-2.0,-2.0,Negatif,negative,Mot,other,ok,spell,auto:gcp,gcp,ok
 Nshoba,Sort,sort,-2.0,-2.0,Negatif,negative,Mot,other,ok,spell,auto:gcp,gcp,ok
 Mushindu eu,Sorte,sorte,0.0,0.0,Neutre,neutral,Mot,other,ok,sort,auto:gcp,gcp,ok
-Nunku,Sorte que,sorte que,0.0,0.0,Neutre,neutral,Mot,other,ok,,,,
-Nunku,Sorte de,sorte de,0.0,0.0,Neutre,neutral,Mot,other,ok,,,,
+Nunku,Sorte que,sorte que,0.0,0.0,Neutre,neutral,Mot,other,ok,nan,,,
+Nunku,Sorte de,sorte de,0.0,0.0,Neutre,neutral,Mot,other,ok,nan,,,
 Dipatuka,Sortie,sortie,0.0,0.0,Neutre,neutral,Mot,other,ok,exit,auto:gcp,gcp,ok
 Kupatuka,Sortir,sortir,0.0,0.0,Neutre,neutral,Verbe,verb,ok,to go out,auto:gcp,gcp,ok
 Kulupuka,Sortir,sortir,0.0,0.0,Neutre,neutral,Verbe,verb,ok,to go out,auto:gcp,gcp,ok
@@ -3582,9 +3582,9 @@ Tshiena bualu bualu,Sujet,sujet,0.0,0.0,Neutre,neutral,Mot,other,ok,subject,auto
 Tshiambilu ku bualu bua,Sujet,sujet,0.0,0.0,Neutre,neutral,Mot,other,ok,subject,auto:gcp,gcp,ok
 Bia pa mutu udi ufuma ku muaku wa pa muanda Kuvulangana,Superflu,superflu,-1.0,-1.0,Negatif,negative,Mot,other,ok,superfluous,auto:gcp,gcp,ok
 Bia pa mutu kupanga bualu bualu,Superflu,superflu,-1.0,-1.0,Negatif,negative,Mot,other,ok,superfluous,auto:gcp,gcp,ok
-Ku mukuna,Plus élevé,plus élevé,1.0,1.0,Positif,positive,Mot,other,ok,,,,
-Ku mutu,Plus élevé,plus élevé,1.0,1.0,Positif,positive,Mot,other,ok,,,,
-Ya kulu,Plus élevé,plus élevé,1.0,1.0,Positif,positive,Mot,other,ok,,,,
+Ku mukuna,Plus élevé,plus élevé,1.0,1.0,Positif,positive,Mot,other,ok,nan,,,
+Ku mutu,Plus élevé,plus élevé,1.0,1.0,Positif,positive,Mot,other,ok,nan,,,
+Ya kulu,Plus élevé,plus élevé,1.0,1.0,Positif,positive,Mot,other,ok,nan,,,
 Kukumbaja,Suppléer,suppléer,1.0,1.0,Positif,positive,Verbe,verb,ok,to supplement,auto:gcp,gcp,ok
 Kusakidila,Suppléer,suppléer,1.0,1.0,Positif,positive,Verbe,verb,ok,to supplement,auto:gcp,gcp,ok
 Disengelela,Supplication,supplication,0.0,0.0,Neutre,neutral,Mot,other,ok,supplication,auto:gcp,gcp,ok
@@ -3885,7 +3885,7 @@ Kukina (kuikala ne lukuna),Haïr,haïr,2.0,2.0,Positif,positive,Mot,other,ok,hat
 Kukoka,Attirer,attirer,2.0,2.0,Positif,positive,Mot,other,ok,attract,auto:gcp,gcp,ok
 Kukoka,Tirer,tirer,0.0,0.0,Neutre,neutral,Mot,other,ok,to pull,auto:gcp,gcp,ok
 Kukokela,Assujettir,assujettir,2.0,2.0,Positif,positive,Mot,other,ok,subject,auto:gcp,gcp,ok
-Kukokesha,Alimenter,alimenter,0.0,0.0,Neutre,neutral,Positif,positif,ok,,,,
+Kukokesha,Alimenter,alimenter,0.0,0.0,Neutre,neutral,Positif,positif,ok,nan,,,
 Kukolesha,Affermir,affermir,8.0,8.0,Positif,positive,Verbe,verb,ok,to strengthen,auto:gcp,gcp,ok
 Kukolesha (mutshima),Endurcir,endurcir,3.0,3.0,Positif,positive,Mot,other,ok,harden,auto:gcp,gcp,ok
 Kukolesha kua mutshima,Courage,courage,4.0,4.0,Positif,positive,Mot,other,ok,courage,auto:gcp,gcp,ok
@@ -3906,7 +3906,7 @@ Kukuatshika,Enivrer,enivrer,0.0,0.0,Neutre,neutral,Verbe,verb,ok,to intoxicate,a
 Kukuatshika ne,Emparer,emparer,0.0,0.0,Neutre,neutral,Verbe,verb,ok,seize,auto:gcp,gcp,ok
 Kukuatshisha,Aider,aider,0.0,0.0,Neutre,neutral,Verbe,verb,ok,help,auto:gcp,gcp,ok
 Kukuatshisha (ne bintu),Kukuatshisha,kukuatshisha,0.0,0.0,Neutre,neutral,Verbe,verb,ok,kukuatshisha,auto:gcp,gcp,ok
-Kukuatshisha ku didiunda,Contribuer à l'avancement,contribuer à l'avancement,0.0,0.0,Neutre,neutral,Mot,other,ok,,,,
+Kukuatshisha ku didiunda,Contribuer à l'avancement,contribuer à l'avancement,0.0,0.0,Neutre,neutral,Mot,other,ok,nan,,,
 Kukuba,Épargner,épargner,0.0,0.0,Neutre,neutral,Verbe,verb,ok,save,auto:gcp,gcp,ok
 Kukudika,Pendre,pendre,-2.0,-2.0,Negatif,negative,Mot,other,ok,hang,auto:gcp,gcp,ok
 Kukudimuka,Convertir,convertir,7.0,7.0,Positif,positive,Mot,other,ok,convert,auto:gcp,gcp,ok
@@ -3933,7 +3933,7 @@ Kukupa mutu,Hocher,hocher,0.0,0.0,Neutre ,neutral,Mot,other,ok,nod,auto:gcp,gcp,
 Kukupula,Essuyer,essuyer,6.0,6.0,Positif,positive,Mot,other,ok,to wipe,auto:gcp,gcp,ok
 Kukuta (ku meyi …),Surprendre,surprendre,-1.0,-1.0,Negatif,negative,Verbe,verb,ok,surprise,auto:gcp,gcp,ok
 Kukutshisha,Rassasier,rassasier,3.0,3.0,Positif,positive,Mot,other,ok,to satiate,auto:gcp,gcp,ok
-Kûla,"Emplir, Enfler","emplir, enfler",4.0,4.0,Positif,positive,Mot,other,ok,,,,
+Kûla,"Emplir, Enfler","emplir, enfler",4.0,4.0,Positif,positive,Mot,other,ok,nan,,,
 Kula diyi bikole,Écrier,écrier,-2.0,-2.0,négative,negative,Mot,other,ok,to write,auto:gcp,gcp,ok
 Kûla kua musulu,Inondation,inondation,3.0,3.0,Positif,positive,Mot,other,ok,flood,auto:gcp,gcp,ok
 Kulaba,Embaumer,embaumer,0.0,0.0,neutrre ,neutral,Mot,other,ok,embalm,auto:gcp,gcp,ok
@@ -3955,7 +3955,7 @@ Kulaya,Ajourner,ajourner,3.0,3.0,Positif,positive,Mot,other,ok,adjourn,auto:gcp,
 Kulayidila,Excuser,excuser,-2.0,-2.0,Negatif,negative,Mot,other,ok,excuse,auto:gcp,gcp,ok
 Kule (udi),Éloigné,éloigné,0.0,0.0, neuitre,neuitre,Mot,other,ok,distant,auto:gcp,gcp,ok
 Kuledibua,Naissance,naissance,-1.0,-1.0,Negatif,negative,Mot,other,ok,birth,auto:gcp,gcp,ok
-Kuledibua kua tshiakabidi,Naître de nouveau,naître de nouveau,2.0,2.0,Positif,positive,Mot,other,ok,,,,
+Kuledibua kua tshiakabidi,Naître de nouveau,naître de nouveau,2.0,2.0,Positif,positive,Mot,other,ok,nan,,,
 Kuleja,Indiquer,indiquer,0.0,0.0,Neutre,neutral,Mot,other,ok,indicate,auto:gcp,gcp,ok
 Kuleja tshilema,Reprocher,reprocher,-1.0,-1.0,Negatif,negative,Mot,other,ok,to reproach,auto:gcp,gcp,ok
 Kulekela,Abandon,abandon,2.0,2.0,Positif,positive,Mot,other,ok,abandon,auto:gcp,gcp,ok
@@ -3975,7 +3975,7 @@ Kulepa,Stature,stature,3.0,3.0,Positif,positive,Mot,other,ok,stature,auto:gcp,gc
 Kulepesha,Prolonger,prolonger,3.0,3.0,Positif,positive,Mot,other,ok,extend,auto:gcp,gcp,ok
 Kulesha,Présenter,présenter,0.0,0.0,Neutre,neutral,Mot,other,ok,to present,auto:gcp,gcp,ok
 Kuloba,Pêcher,pêcher,0.0,0.0,Neutre,neutral,Mot,other,ok,sin,auto:gcp,gcp,ok
-Oleve,"Olive, Olivier","olive, olivier",0.0,0.0, Neutre,neutral,Mot,other,ok,,,,
+Oleve,"Olive, Olivier","olive, olivier",0.0,0.0, Neutre,neutral,Mot,other,ok,nan,,,
 Omega = Z,Oméga,oméga,0.0,0.0,Neutre,neutral,Mot ,other,ok,omega,auto:gcp,gcp,ok
 "Onso, bonso, bionso",Entier,entier,2.0,2.0,Positif,positive,Verbe,verb,ok,entire,auto:gcp,gcp,ok
 Ours,Ours,ours,0.0,0.0,Neutre,neutral,Mot,other,ok,bear,auto:gcp,gcp,ok
@@ -3991,7 +3991,7 @@ Paladiso,Paradis,paradis,0.0,0.0,Neutre,neutral,Mot,other,ok,heaven,auto:gcp,gcp
 Panshi (pa buloba),Sol,sol,0.0,0.0,Neutre,neutral,Mot,other,ok,ground,auto:gcp,gcp,ok
 Panyima,Revers,revers,0.0,0.0,Neutre,neutral,Mot,other,ok,reverse,auto:gcp,gcp,ok
 Patoke,Franchise,franchise,0.0,0.0,Neutre,neutral,Mot,other,ok,franchise,auto:gcp,gcp,ok
-Patshiatshia pa kulu,Orient d'en haut,orient d'en haut,0.0,0.0,Neutre ,neutral,Mot,other,ok,,,,
+Patshiatshia pa kulu,Orient d'en haut,orient d'en haut,0.0,0.0,Neutre ,neutral,Mot,other,ok,nan,,,
 Patupu,Vain,vain,0.0,0.0,Neutre,neutral,Mot,other,ok,vain,auto:gcp,gcp,ok
 "Patupu (a), mapuekele",Vil,vil,-1.0,-1.0,Negatif,negative,Mot,other,ok,vile,auto:gcp,gcp,ok
 Patupu (tshona),Inutilement,inutilement,0.0,0.0,Neutre,neutral,Mot,other,ok,unnecessarily,auto:gcp,gcp,ok
@@ -4036,7 +4036,7 @@ Tshibi,Mal,mal,0.0,0.0,Neutre,neutral,Mot,other,ok,wrong,auto:gcp,gcp,ok
 Tshibipe,Impur,impur,-1.0,-1.0,Negatif,negative,Mot,other,ok,impure,auto:gcp,gcp,ok
 Tshibishi,Vert,vert,-1.0,-1.0,Negatif,negative,Mot,other,ok,Green,auto:gcp,gcp,ok
 Tshibobe,Maturité,maturité,0.0,0.0,Neutre,neutral,Mot,other,ok,maturity,auto:gcp,gcp,ok
-Tshibombu,Bourse,bourse,0.0,0.0,Neutre,neutral,Mot,other,ok,sotck exchange ,auto:gcp,gcp,ok
+Tshibombu,Bourse,bourse,0.0,0.0,Neutre,neutral,Mot,other,ok,sotck exchange,auto:gcp,gcp,ok
 Tshibueledi,Accès,accès,0.0,0.0,Neutre,neutral,Mot,other,ok,access,auto:gcp,gcp,ok
 Tshibuikilu (tshia mushete wa tshipungidi),Propitiatoire,propitiatoire,1.0,1.0,Positif,positive,Mot,other,ok,propitiatory,auto:gcp,gcp,ok
 "Tshibuikilu tshia pa
@@ -4107,7 +4107,7 @@ Tshidikijilu tshia lubilu,Course,course,3.0,3.0,Positif,positive,Mot,other,ok,ra
 Tshidilu,Crèche,crèche,0.0,0.0,Neutre,neutral,Mot,other,ok,crib,auto:gcp,gcp,ok
 Tshidimba,Gouvernail,gouvernail,2.0,2.0,Positif,positive,Mot,other,ok,rudder,auto:gcp,gcp,ok
 Tshidime,Cultivateur,cultivateur,2.0,2.0,Positif,positive,Mot,other,ok,farmer,auto:gcp,gcp,ok
-Tshidimu,"An, Année","an, année",-2.0,-2.0,Negatif,negative,Mot,other,ok,,,,
+Tshidimu,"An, Année","an, année",-2.0,-2.0,Negatif,negative,Mot,other,ok,nan,,,
 "Tshidimu tshia
 mashika",Hiver,hiver,0.0,0.0,Neutre,neutral,Mot,other,ok,winter,auto:gcp,gcp,ok
 Tshidimu tshia mayowa,Été,été,3.0,3.0,Positif,positive,Mot,other,ok,summer,auto:gcp,gcp,ok
@@ -4122,7 +4122,7 @@ Tshifuafua,Mortel,mortel,0.0,0.0,Neutre,neutral,Mot,other,ok,mortal,auto:gcp,gcp
 Tshifufu,Complot,complot,0.0,0.0,Neutre,neutral,Mot,other,ok,conspiracy,auto:gcp,gcp,ok
 Tshifukibua,Créature,créature,0.0,0.0,Neutre,neutral,Mot,other,ok,creature,auto:gcp,gcp,ok
 "Tshifukibua tshipia
-tshipia",Nouvelle création,nouvelle création,0.0,0.0,Neutre,neutral,Mot,other,ok,,,,
+tshipia",Nouvelle création,nouvelle création,0.0,0.0,Neutre,neutral,Mot,other,ok,nan,,,
 Tshifulu,Casque,casque,0.0,0.0,Neutre,neutral,Mot,other,ok,helmet,auto:gcp,gcp,ok
 Tshifulu tshia butumbi,Diadème,diadème,0.0,0.0,Neutre,neutral,Mot,other,ok,tiara,auto:gcp,gcp,ok
 Tshiji,Colère,colère,0.0,0.0,Neutre,neutral,Mot,other,ok,anger,auto:gcp,gcp,ok
@@ -4146,7 +4146,7 @@ Tshikondo tshimpe,Opportun,opportun,0.0,0.0,Neutre,neutral,Mot,other,ok,opportun
 Tshikote,Cumin,cumin,1.0,1.0,Positif,positive,Mot,other,ok,cumin,auto:gcp,gcp,ok
 Tshikowelu,Vêtement,vêtement,-2.0,-2.0,Negatif,negative,Mot,other,ok,garment,auto:gcp,gcp,ok
 Tshikoyeke,Immonde,immonde,-3.0,-3.0,Negatif,negative,Mot,other,ok,filthy,auto:gcp,gcp,ok
-Tshikumbane,Assez Utile,assez utile,-3.0,-3.0,Negatif,negative,Mot,other,ok,,,,
+Tshikumbane,Assez Utile,assez utile,-3.0,-3.0,Negatif,negative,Mot,other,ok,nan,,,
 "Tshikumbane, tshiûja",Complet,complet,2.0,2.0,Positif,positive,Mot,other,ok,complete,auto:gcp,gcp,ok
 Tshikusu,Ver,ver,2.0,2.0,Positif,positive,Mot,other,ok,worm,auto:gcp,gcp,ok
 Tshikutu (tshia kapia),Fournaise,fournaise,2.0,2.0,Positif,positive,Mot,other,ok,furnace,auto:gcp,gcp,ok
@@ -4174,7 +4174,7 @@ Biakulakula,Babil,babil,-3.0,-3.0,Negatif,negative,Mot,other,ok,babble,auto:gcp,
 Biakunyibua bibishi,Verdure,verdure,-3.0,-3.0,Negatif,negative,Mot,other,ok,greenery,auto:gcp,gcp,ok
 Biata,Couchette,couchette,0.0,0.0,Neutre,neutral,Mot,other,ok,berth,auto:gcp,gcp,ok
 Bibelu,Jambe,jambe,0.0,0.0,Neutre,neutral,Mot,other,ok,leg,auto:gcp,gcp,ok
-Bibidi,"Couple, Paire","couple, paire",8.0,8.0,Positif,positive,Mot,other,ok,,,,
+Bibidi,"Couple, Paire","couple, paire",8.0,8.0,Positif,positive,Mot,other,ok,nan,,,
 Bidi bimueneka ku mesu,Vue,vue,5.0,5.0,Positif,positive,Mot,other,ok,view,auto:gcp,gcp,ok
 Bidi bisasa,Chaume,chaume,-5.0,-5.0,Negatif,negative,Mot,other,ok,thatch,auto:gcp,gcp,ok
 Bidi kabiyi mua kuambibua,Inexprimable,inexprimable,0.0,0.0,Neutre,neutral,Mot,other,ok,inexpressible,auto:gcp,gcp,ok
@@ -4184,7 +4184,7 @@ Bidi mua kuzakajibua ,Muable,muable,2.0,2.0,Positif,positive,Mot,other,ok,mutabl
 Bidia,Agapes,agapes,3.0,3.0,Negatif,negative,Mot,other,ok,feasts,auto:gcp,gcp,ok
 Bidia bia dibanji,Banquet,banquet,3.0,3.0,Negatif,negative,Mot,other,ok,banquet,auto:gcp,gcp,ok
 Bidia bia Mukelenge,Cène,cène,3.0,3.0,Neutre,neutral,Mot,other,ok,last supper,auto:gcp,gcp,ok
-Bidia bidi kabiyi ne luevene,Pain sans levain,pain sans levain,0.0,0.0,Neutre,neutral,Mot,other,ok,,,,
+Bidia bidi kabiyi ne luevene,Pain sans levain,pain sans levain,0.0,0.0,Neutre,neutral,Mot,other,ok,nan,,,
 "Bidimu, wa bidimu…",Âge,âge,3.0,3.0,Positif,positive,Mot,other,ok,age,auto:gcp,gcp,ok
 Bielelu,Instrument,instrument,4.0,4.0,Positif,positive,Mot,other,ok,instrument,auto:gcp,gcp,ok
 Biensheshi,Soupçon,soupçon,4.0,4.0,Negatif,negative,Mot,other,ok,suspicion,auto:gcp,gcp,ok
@@ -4206,29 +4206,29 @@ Bilondeshele,Relativement,relativement,6.0,6.0,Positif,positive,Mot,other,ok,rel
 Bilongo,Lis,lis,7.0,7.0,Negatif,negative,Mot,other,ok,read,auto:gcp,gcp,ok
 Bilongolola,Prêt,prêt,7.0,7.0,Positif,positive,Mot,other,ok,ready,auto:gcp,gcp,ok
 Bilulu,Agrès ,agrès,6.0,6.0,Positif,positive,Mot,other,ok,apparatus,auto:gcp,gcp,ok
-Bilungakaja bimpe,Ajusté ensemble,ajusté ensemble,3.0,3.0,Positif,positive,Mot,other,ok,,,,
+Bilungakaja bimpe,Ajusté ensemble,ajusté ensemble,3.0,3.0,Positif,positive,Mot,other,ok,nan,,,
 Bimane,Interdit,interdit,-1.0,-1.0,Positif,positive,Mot,other,ok,forbidden,auto:gcp,gcp,ok
 Bimpe,Bien,bien,8.0,8.0,Positif,positive,Mot,other,ok,GOOD,auto:gcp,gcp,ok
 Bimpe,Clair,clair,8.0,8.0,Negatif,negative,Mot,other,ok,clear,auto:gcp,gcp,ok
 Bimpe ,Sûrement,sûrement,0.0,0.0,Neutre,neutral,Mot,other,ok,certainly,auto:gcp,gcp,ok
 "Bimpe, ne kalolo",Diligemment,diligemment,5.0,5.0,Positif,positive,Mot,other,ok,diligently,auto:gcp,gcp,ok
 Bimunyi,Lanterne,lanterne,4.0,4.0,Positif,positive,Mot,other,ok,lantern,auto:gcp,gcp,ok
-Binamanya,Pourvu que,pourvu que,8.0,8.0,Positif,positive,Mot,other,ok,,,,
-Bingikala ntshiyi ngenza,Malgré moi,malgré moi,3.0,3.0,Positif,positive,Mot,other,ok,,,,
+Binamanya,Pourvu que,pourvu que,8.0,8.0,Positif,positive,Mot,other,ok,nan,,,
+Bingikala ntshiyi ngenza,Malgré moi,malgré moi,3.0,3.0,Positif,positive,Mot,other,ok,nan,,,
 Bintu,Subsistance,subsistance,5.0,5.0,Positif,positive,Mot,other,ok,subsistence,auto:gcp,gcp,ok
 Bintu,Cargaison,cargaison,-3.0,-3.0,Negatif,negative,Mot,other,ok,cargo,auto:gcp,gcp,ok
 Bintu bia bu ngenda,Marchandise,marchandise,0.0,0.0,Neutre,neutral,Mot,other,ok,merchandise,auto:gcp,gcp,ok
 Bintu bia bululu,Fiel,fiel,0.0,0.0,Positif,positive,Mot,other,ok,gall,auto:gcp,gcp,ok
 Bintu bia mupuya muimpe,Aromates,aromates,-1.0,-1.0,Negatif,negative,Mot,other,ok,herbs,auto:gcp,gcp,ok
 Bintu bimansha ku diala,Ordure,ordure,-5.0,-5.0,Negatif,negative,Mot,other,ok,garbage,auto:gcp,gcp,ok
-Binunu bibidi,Deux mille,deux mille,0.0,0.0,Neutre,neutral,Nombre,number,ok,,,,
-Binunu binayi,Quatre mille,quatre mille,10.0,9.0,Positif,positive,Nombre,number,ok,,,,
-Binunu bisatu,Trois mille,trois mille,10.0,9.0,Positif,positive,Nombre,number,ok,,,,
-Binunu bitanu,Cinq mille,cinq mille,10.0,9.0,Positif,positive,Nombre,number,ok,,,,
-Binunu dikumi,Dix mille,dix mille,10.0,9.0,Positif,positive,Nombre,number,ok,,,,
-Binunu dikumi ne bibidi,Douze mille,douze mille,10.0,9.0,Positif,positive,Nombre,number,ok,,,,
-Binunu makumi abidi,Vingt mille,vingt mille,10.0,9.0,Positif,positive,Nombre,number,ok,,,,
-Binunu makumi abidi ne bisatu,Vingt-trois mille,vingt-trois mille,10.0,9.0,Positif,positive,Nombre,number,ok,,,,
+Binunu bibidi,Deux mille,deux mille,0.0,0.0,Neutre,neutral,Nombre,number,ok,nan,,,
+Binunu binayi,Quatre mille,quatre mille,10.0,9.0,Positif,positive,Nombre,number,ok,nan,,,
+Binunu bisatu,Trois mille,trois mille,10.0,9.0,Positif,positive,Nombre,number,ok,nan,,,
+Binunu bitanu,Cinq mille,cinq mille,10.0,9.0,Positif,positive,Nombre,number,ok,nan,,,
+Binunu dikumi,Dix mille,dix mille,10.0,9.0,Positif,positive,Nombre,number,ok,nan,,,
+Binunu dikumi ne bibidi,Douze mille,douze mille,10.0,9.0,Positif,positive,Nombre,number,ok,nan,,,
+Binunu makumi abidi,Vingt mille,vingt mille,10.0,9.0,Positif,positive,Nombre,number,ok,nan,,,
+Binunu makumi abidi ne bisatu,Vingt-trois mille,vingt-trois mille,10.0,9.0,Positif,positive,Nombre,number,ok,nan,,,
 "Bipendu, kupenda",Outrage,outrage,11.0,9.0,Positif,positive,Mot,other,ok,outrage,auto:gcp,gcp,ok
 Bipia,Tresse,tresse,12.0,9.0,Positif,positive,Mot,other,ok,braided,auto:gcp,gcp,ok
 Bipikilu,Bath,bath,-5.0,-5.0,Negatif,negative,Mot,other,ok,bath,auto:gcp,gcp,ok
@@ -4251,7 +4251,7 @@ Bitupa bia mubidi,Membre,membre,4.0,4.0,Positif,positive,Mot,other,ok,member,aut
 Biuma,Bien-être,bien-être,0.0,0.0,Neutre,neutral,Mot,other,ok,well-being,auto:gcp,gcp,ok
 Bizakalazakala,Raboteux,raboteux,-9.0,-9.0,Negatif,negative,Mot,other,ok,rugged,auto:gcp,gcp,ok
 Bouwa,Peut-être,peut-être,0.0,0.0,Neutre,neutral,Mot,other,ok,maybe,auto:gcp,gcp,ok
-Bu,Guise de,guise de,5.0,5.0,Positif,positive,Mot,other,ok,,,,
+Bu,Guise de,guise de,5.0,5.0,Positif,positive,Mot,other,ok,nan,,,
 Bu ,Environ,environ,5.0,5.0,Positif,positive,Mot,other,ok,approximately,auto:gcp,gcp,ok
 Bu Mubidi,Corporel,corporel,5.0,5.0,Positif,positive,Mot,other,ok,bodily,auto:gcp,gcp,ok
 Bu mudi,Suivant,suivant,5.0,5.0,Positif,positive,Mot,other,ok,following,auto:gcp,gcp,ok
@@ -4271,7 +4271,7 @@ Bualu bua,Effet ,effet,5.0,5.0,Positif,positive,Mot,other,ok,effect,auto:gcp,gcp
 Bualu bua kukema,Prodige,prodige,4.0,4.0,Positif,positive,Mot,other,ok,prodigy,auto:gcp,gcp,ok
 Bualu bukole,Difficilement,difficilement,5.0,5.0,Positif,positive,Mot,other,ok,with difficulty,auto:gcp,gcp,ok
 Bualu busokoka,Mystère,mystère,6.0,6.0,Positif,positive,Mot,other,ok,mystery,auto:gcp,gcp,ok
-Bualu busokoka bua bupidia,Mystère d'iniquité,mystère d'iniquité,6.0,6.0,Positif,positive,Mot,other,ok,,,,
+Bualu busokoka bua bupidia,Mystère d'iniquité,mystère d'iniquité,6.0,6.0,Positif,positive,Mot,other,ok,nan,,,
 "Bualu, muanda",Nouvelle,nouvelle,4.0,4.0,Positif,positive,Mot,other,ok,new,auto:gcp,gcp,ok
 Buana,Enfance,enfance,4.0,4.0,Positif,positive,Mot,other,ok,childhood,auto:gcp,gcp,ok
 Buanga bua kulaba ku mesu,Collyre,collyre,4.0,4.0,Positif,positive,Mot,other,ok,eye drops,auto:gcp,gcp,ok
@@ -4326,7 +4326,7 @@ Diapa,Épaule,épaule,2.0,2.0,Positif,positive,Mot,other,ok,shoulder,auto:gcp,gc
 Diba,Heure,heure,9.0,9.0,Positif,positive,Mot,other,ok,hour,auto:gcp,gcp,ok
 Diba,Soleil,soleil,8.0,8.0,Positif,positive,Mot,other,ok,sun,auto:gcp,gcp,ok
 Diba adi,Aussitôt,aussitôt,5.0,5.0,Positif,positive,Mot,other,ok,right away,auto:gcp,gcp,ok
-Diba dia buakane,Soleil de justice,soleil de justice,4.0,4.0,Positif,positive,Mot,other,ok,,,,
+Diba dia buakane,Soleil de justice,soleil de justice,4.0,4.0,Positif,positive,Mot,other,ok,nan,,,
 Diba dikese,Instant ,instant,6.0,6.0,Positif,positive,Mot,other,ok,instant,auto:gcp,gcp,ok
 Dibaka,Mariage,mariage,9.0,9.0,Positif,positive,Mot,other,ok,marriage,auto:gcp,gcp,ok
 Dibala,Lecture,lecture,6.0,6.0,Positif,positive,Mot,other,ok,reading,auto:gcp,gcp,ok
@@ -4342,7 +4342,7 @@ Dibingishibua,Justification,justification,5.0,5.0,Positif,positive,Mot,other,ok,
 Diboko,Bras,bras,4.0,4.0,Positif,positive,Verbe,verb,ok,arm,auto:gcp,gcp,ok
 Dibue,Caillou,caillou,3.0,3.0,Positif,positive,Verbe,verb,ok,pebble,auto:gcp,gcp,ok
 Dibue a mushinga mukole,Permanent,permanent,2.0,2.0,Positif,positive,Verbe,verb,ok,permanent,auto:gcp,gcp,ok
-Dibue dia muditumba,Pierre (cause d'achoppement),pierre (cause d'achoppement),5.0,5.0,Positif,positive,Verbe,verb,ok,,,,
+Dibue dia muditumba,Pierre (cause d'achoppement),pierre (cause d'achoppement),5.0,5.0,Positif,positive,Verbe,verb,ok,nan,,,
 Dibue dia tshilenduishi,Piété,piété,4.0,4.0,Positif,positive,Mot,other,ok,piety,auto:gcp,gcp,ok
 Dibue dinene,Meule,meule,2.0,2.0,Positif,positive,Mot,other,ok,grindstone,auto:gcp,gcp,ok
 "Dibue dinene, lubuebue",Roc,roc,0.0,0.0,Neutre,neutral,Mot,other,ok,rock,auto:gcp,gcp,ok
@@ -4355,7 +4355,7 @@ Dibuikidila,Pardon,pardon,8.0,8.0,Positif,positive,Mot,other,ok,pardon,auto:gcp,
 Dibuikidila (mulambu wa),Propitiation,propitiation,3.0,3.0,Positif,positive,Mot,other,ok,propitiation,auto:gcp,gcp,ok
 Dibulu,Masse,masse,5.0,5.0,Positif,positive,Mot,other,ok,mass,auto:gcp,gcp,ok
 Dibuluibua,Révélation,révélation,5.0,5.0,Positif,positive,Mot,other,ok,revelation,auto:gcp,gcp,ok
-Dibungama,"Défait, Regret","défait, regret",5.0,5.0,Positif,positive,Mot,other,ok,,,,
+Dibungama,"Défait, Regret","défait, regret",5.0,5.0,Positif,positive,Mot,other,ok,nan,,,
 Dibungi,Nuage,nuage,5.0,5.0,Positif,positive,Mot,other,ok,cloud,auto:gcp,gcp,ok
 Dibungibungi,Vapeur,vapeur,6.0,6.0,Positif,positive,Mot,other,ok,steam,auto:gcp,gcp,ok
 Dibutuka,Désolation,désolation,6.0,6.0,Positif,positive,Mot,other,ok,desolation,auto:gcp,gcp,ok
@@ -4375,7 +4375,7 @@ Didiundisha,Avancement,avancement,8.0,8.0,Positif,positive,Mot,other,ok,advancem
 Dieba,Aiguillon,aiguillon,-3.0,-3.0,Neutre,neutral,Mot,other,ok,sting,auto:gcp,gcp,ok
 Diedibua dia manyi,Onction,onction,3.0,3.0,Positif,positive,Mot,other,ok,anointing,auto:gcp,gcp,ok
 Dienza,Opérant,opérant,4.0,4.0,Positif,positive,Mot,other,ok,operating,auto:gcp,gcp,ok
-Dienzeja dia dipambuka,Énergie d'erreur,énergie d'erreur,-6.0,-6.0,Negatif,negative,Mot,other,ok,,,,
+Dienzeja dia dipambuka,Énergie d'erreur,énergie d'erreur,-6.0,-6.0,Negatif,negative,Mot,other,ok,nan,,,
 Dienzejibua ku bukole,Contrainte,contrainte,0.0,0.0,Positif,positive,Mot,other,ok,constraint,auto:gcp,gcp,ok
 Difika dia munda,Courroux,courroux,5.0,5.0,Positif,positive,Mot,other,ok,wrath,auto:gcp,gcp,ok
 Difikisha munda,Irritation,irritation,7.0,7.0,Positif,positive,Mot,other,ok,irritation,auto:gcp,gcp,ok
@@ -4396,7 +4396,7 @@ Dikuatshishangana,Fournissement,fournissement,5.0,5.0,Positif,positive,Mot,other
 Dikudimuka,Variation,variation,5.0,5.0,Positif,positive,Mot,other,ok,variation,auto:gcp,gcp,ok
 Dikudimuna,Changement,changement,5.0,5.0,Positif,positive,Mot,other,ok,change,auto:gcp,gcp,ok
 Dikudimuna dia mutshima,Repentance,repentance,5.0,5.0,Positif,positive,Verbe,verb,ok,repentance,auto:gcp,gcp,ok
-Dikuma dia mutshima bipeta mu njila mibi,Avide d'un gain honteux,avide d'un gain honteux,5.0,5.0,Positif,positive,Mot,other,ok,,,,
+Dikuma dia mutshima bipeta mu njila mibi,Avide d'un gain honteux,avide d'un gain honteux,5.0,5.0,Positif,positive,Mot,other,ok,nan,,,
 Dikuma dia mutshima ku biuma,Avarice,avarice,5.0,5.0,Positif,positive,Mot,other,ok,avarice,auto:gcp,gcp,ok
 Dikumbana,Accomplissement,accomplissement,4.0,4.0,Positif,positive,Mot,other,ok,accomplishment,auto:gcp,gcp,ok
 Dikumi,Dix,dix,10.0,9.0,Positif,positive,Nombre,number,ok,ten,auto:gcp,gcp,ok
@@ -4404,14 +4404,14 @@ Dikumi ne binayi,Quatorze,quatorze,8.0,8.0,Positif,positive,Nombre,number,ok,fou
 Dikumi ne ibidi,Douze,douze,8.0,8.0,Positif,positive,Nombre,number,ok,twelve,auto:gcp,gcp,ok
 Dikumi ne itanu,Quinze,quinze,8.0,8.0,Positif,positive,Nombre,number,ok,fifteen,auto:gcp,gcp,ok
 Dikumi ne muanda mukulu,Dix-huit,dix-huit,6.0,6.0,Positif,positive,Nombre,number,ok,eighteen,auto:gcp,gcp,ok
-Dikumi ne umue,"Onze, Onzième","onze, onzième",6.0,6.0,Positif,positive,Nombre,number,ok,,,,
+Dikumi ne umue,"Onze, Onzième","onze, onzième",6.0,6.0,Positif,positive,Nombre,number,ok,nan,,,
 Dikunji,Colonne,colonne,6.0,6.0,Positif,positive,Mot,other,ok,column,auto:gcp,gcp,ok
 Dikunyibua,Implanté,implanté,6.0,6.0,Positif,positive,Mot,other,ok,implanted,auto:gcp,gcp,ok
-Dikunza,Roux,roux,6.0,6.0,Positif,positive,mm,mm,ok,,,,
+Dikunza,Roux,roux,6.0,6.0,Positif,positive,mm,mm,ok,nan,,,
 Dikuta,Monnaie,monnaie,6.0,6.0,Positif,positive,Mot,other,ok,cash,auto:gcp,gcp,ok
 Dikuta dikese,Sou,sou,6.0,6.0,Positif,positive,Mot,other,ok,penny,auto:gcp,gcp,ok
 Diledibua kua tshiakabidi,Régénération,régénération,6.0,6.0,Positif,positive,Mot,other,ok,regeneration,auto:gcp,gcp,ok
-Dileja dia mampa,Propositions des pains,propositions des pains,2.0,2.0,Positif,positive,Mot,other,ok,,,,
+Dileja dia mampa,Propositions des pains,propositions des pains,2.0,2.0,Positif,positive,Mot,other,ok,nan,,,
 Dileja tshilema,Reproche,reproche,8.0,8.0,Positif,positive,Mot,other,ok,reproach,auto:gcp,gcp,ok
 "Dilelela, tshidi tshia kueyemenyibua",Certain,certain,6.0,6.0,Positif,positive,Mot,other,ok,certain,auto:gcp,gcp,ok
 Dilengeja,Purification,purification,5.0,5.0,Positif,positive,Mot,other,ok,purification,auto:gcp,gcp,ok
@@ -4447,7 +4447,7 @@ Dinanga,Amour,amour,4.0,4.0,Positif,positive,Mot,other,ok,love,auto:gcp,gcp,ok
 Dinanga,Affection,affection,4.0,4.0,Positif,positive,Mot,other,ok,affection,auto:gcp,gcp,ok
 Dinanukila,Persévérer,persévérer,4.0,4.0,Positif,positive,Mot,other,ok,persevere,auto:gcp,gcp,ok
 Dinda,Matin,matin,5.0,5.0,Positif,positive,Mot,other,ok,Morning,auto:gcp,gcp,ok
-Dinda,Point du jour,point du jour,5.0,5.0,Positif,positive,Mot,other,ok,,,,
+Dinda,Point du jour,point du jour,5.0,5.0,Positif,positive,Mot,other,ok,nan,,,
 Dinemekela,Révérence,révérence,5.0,5.0,Positif,positive,Mot,other,ok,reverence,auto:gcp,gcp,ok
 Dinkenke,Splendeur,splendeur,5.0,5.0,Positif,positive,Mot,other,ok,splendor,auto:gcp,gcp,ok
 Dinowa,Moisson,moisson,5.0,5.0,Positif,positive,Mot,other,ok,harvest,auto:gcp,gcp,ok
@@ -4463,14 +4463,14 @@ Dinyoka,Sentence,sentence,6.0,6.0,Positif,positive,Mot,other,ok,sentence,auto:gc
 Dinyunguluka,Tour,tour,7.0,7.0,Positif,positive,Mot,other,ok,round,auto:gcp,gcp,ok
 Diondoka,Profond,profond,7.0,7.0,Positif,positive,Mot,other,ok,deep,auto:gcp,gcp,ok
 Dipa,Don,don,4.0,4.0,Positif,positive,Mot,other,ok,Don,auto:gcp,gcp,ok
-Dipa dia luse,Don de grâce,don de grâce,4.0,4.0,Positif,positive,Mot,other,ok,,,,
+Dipa dia luse,Don de grâce,don de grâce,4.0,4.0,Positif,positive,Mot,other,ok,nan,,,
 Dipambuisha,Séduction,séduction,4.0,4.0,Positif,positive,Mot,other,ok,seduction,auto:gcp,gcp,ok
 Dipambuka,Égarement,égarement,4.0,4.0,Positif,positive,Mot,other,ok,misguidance,auto:gcp,gcp,ok
 Dipandulula,Division,division,4.0,4.0,Positif,positive,Mot,other,ok,division,auto:gcp,gcp,ok
 Dipanga dia kudikanda,Incontinence,incontinence,4.0,4.0,Positif,positive,Mot,other,ok,incontinence,auto:gcp,gcp,ok
 Dipanga dikuatshisha,Inutilité,inutilité,4.0,4.0,Positif,positive,Mot,other,ok,uselessness,auto:gcp,gcp,ok
 Dipanga dinyanguka,Incorruptibilité,incorruptibilité,4.0,4.0,Positif,positive,Mot,other,ok,incorruptibility,auto:gcp,gcp,ok
-Dipangadija,"Opinion, Propos","opinion, propos",4.0,4.0,Positif,positive,Mot,other,ok,,,,
+Dipangadija,"Opinion, Propos","opinion, propos",4.0,4.0,Positif,positive,Mot,other,ok,nan,,,
 Dipatuka,Sortie,sortie,4.0,4.0,Positif,positive,Mot,other,ok,exit,auto:gcp,gcp,ok
 Dipeta,Acquisition,acquisition,4.0,4.0,Positif,positive,Mot,other,ok,acquisition,auto:gcp,gcp,ok
 Dipetu,IgMotinie,igmotinie,4.0,4.0,Negatif,negative,Mot,other,ok,igmotinia,auto:gcp,gcp,ok
@@ -4480,12 +4480,12 @@ Dipila,Condamnation,condamnation,4.0,4.0,Positif,positive,Mot,other,ok,convictio
 Dipita,Victoire,victoire,4.0,4.0,Positif,positive,Mot,other,ok,victory,auto:gcp,gcp,ok
 Dipumbisha,Obstacle,obstacle,4.0,4.0,Positif,positive,Mot,other,ok,obstacle,auto:gcp,gcp,ok
 Dipumbishibua,Absence,absence,4.0,4.0,Positif,positive,Mot,other,ok,absence,auto:gcp,gcp,ok
-Dipunga diyi,Consentement mutuel,consentement mutuel,4.0,4.0,Positif,positive,Mot,other,ok,,,,
+Dipunga diyi,Consentement mutuel,consentement mutuel,4.0,4.0,Positif,positive,Mot,other,ok,nan,,,
 Dipungi,Fatigue,fatigue,4.0,4.0,Positif,positive,Mot,other,ok,fatigue,auto:gcp,gcp,ok
 Dipuyakana,Respiration,respiration,4.0,4.0,Positif,positive,Mot,other,ok,breathing,auto:gcp,gcp,ok
 Disakidila,Gratitude,gratitude,4.0,4.0,Positif,positive,Mot,other,ok,gratitude,auto:gcp,gcp,ok
 Disalayi,Satellite,satellite,4.0,4.0,Positif,positive,Mot,other,ok,satellite,auto:gcp,gcp,ok
-Disalayi dilami dia tshitudilu,Préfet du prétoire,préfet du prétoire,4.0,4.0,Positif,positive,Mot,other,ok,,,,
+Disalayi dilami dia tshitudilu,Préfet du prétoire,préfet du prétoire,4.0,4.0,Positif,positive,Mot,other,ok,nan,,,
 Disama,Maladie,maladie,4.0,4.0,Positif,positive,Mot,other,ok,disease,auto:gcp,gcp,ok
 Disama dia mashi apatuka,Flux,flux,4.0,4.0,Positif,positive,Mot,other,ok,flow,auto:gcp,gcp,ok
 Disama dia mubidi kapia,Fièvre,fièvre,4.0,4.0,Positif,positive,Mot,other,ok,fever,auto:gcp,gcp,ok
@@ -4517,7 +4517,7 @@ Disunsula,Détail,détail,5.0,5.0,Positif,positive,Mot,other,ok,detail,auto:gcp,
 Ditabala,Recouvrement,recouvrement,5.0,5.0,Positif,positive,Mot,other,ok,recovery,auto:gcp,gcp,ok
 Ditabuja,Réception,réception,5.0,5.0,Positif,positive,Mot,other,ok,reception,auto:gcp,gcp,ok
 Ditabuja,Foi,foi,5.0,5.0,Positif,positive,Mot,other,ok,faith,auto:gcp,gcp,ok
-Ditabuja dikese,Petite foi,petite foi,5.0,5.0,Positif,positive,Mot,other,ok,,,,
+Ditabuja dikese,Petite foi,petite foi,5.0,5.0,Positif,positive,Mot,other,ok,nan,,,
 Ditabujija,Perte,perte,5.0,5.0,Positif,positive,Mot,other,ok,loss,auto:gcp,gcp,ok
 Ditalala,Tranquillité,tranquillité,5.0,5.0,Positif,positive,Mot,other,ok,tranquility,auto:gcp,gcp,ok
 Ditama,Joue,joue,5.0,5.0,Positif,positive,Mot,other,ok,plays,auto:gcp,gcp,ok
@@ -4532,7 +4532,7 @@ Ditekemena,Espérance,espérance,4.0,4.0,Positif,positive,Mot,other,ok,hope,auto
 Ditendelela,Culte,culte,4.0,4.0,Positif,positive,Mot,other,ok,worship,auto:gcp,gcp,ok
 Ditengula,Circoncision,circoncision,5.0,5.0,Positif,positive,Mot,other,ok,circumcision,auto:gcp,gcp,ok
 "Ditengula, divula",Dépouillement,dépouillement,5.0,5.0,Positif,positive,Verbe,verb,ok,counting,auto:gcp,gcp,ok
-Ditentekesha dia bianza,Imposition des mains,imposition des mains,5.0,5.0,Positif,positive,Mot,other,ok,,,,
+Ditentekesha dia bianza,Imposition des mains,imposition des mains,5.0,5.0,Positif,positive,Mot,other,ok,nan,,,
 Diteta,Épreuve,épreuve,5.0,5.0,Positif,positive,Mot,other,ok,test,auto:gcp,gcp,ok
 Ditoka dikole,Blancheur,blancheur,4.0,4.0,Positif,positive,Mot,other,ok,whiteness,auto:gcp,gcp,ok
 Ditomboka,Sédition,sédition,5.0,5.0,Positif,positive,Mot,other,ok,sedition,auto:gcp,gcp,ok
@@ -4548,9 +4548,9 @@ Dituaya,Tablier,tablier,0.0,0.0,Negatif,negative,Mot,other,ok,apron,auto:gcp,gcp
 Dituayi,Mouchoir,mouchoir,0.0,0.0,Negatif,negative,Mot,other,ok,handkerchief,auto:gcp,gcp,ok
 Ditubula,Pénétrant ,pénétrant,5.0,5.0,Neutre,neutral,Mot,other,ok,penetrating,auto:gcp,gcp,ok
 Dituku,Jour,jour,5.0,5.0,Neutre,neutral,Mot,other,ok,day,auto:gcp,gcp,ok
-Dituku dia Diledibua,Anniversaire de naissance,anniversaire de naissance,5.0,5.0,Positif,positive,Mot,other,ok,,,,
+Dituku dia Diledibua,Anniversaire de naissance,anniversaire de naissance,5.0,5.0,Positif,positive,Mot,other,ok,nan,,,
 Dituku dia disanka,Fête,fête,5.0,5.0,Positif,positive,Mot,other,ok,party,auto:gcp,gcp,ok
-Dituku dia Mukelenge,Jour du Seigneur,jour du seigneur,4.0,4.0,Negatif,negative,Mot,other,ok,,,,
+Dituku dia Mukelenge,Jour du Seigneur,jour du seigneur,4.0,4.0,Negatif,negative,Mot,other,ok,nan,,,
 Ditumbisha,Louange,louange,0.0,0.0,Neutre,neutral,Mot,other,ok,praise,auto:gcp,gcp,ok
 Ditumikila,Obéissance,obéissance,4.0,4.0,Positif,positive,Mot,other,ok,obedience,auto:gcp,gcp,ok
 Ditupakana,Ignorance,ignorance,0.0,0.0,Neutre,neutral,Mot,other,ok,ignorance,auto:gcp,gcp,ok
@@ -5099,7 +5099,7 @@ Bidi mua kuzakajibua,Muable,muable,0.0,0.0,Neutre,neutral,Mot,other,ok,mutable,a
 Bidia,Repas,repas,7.0,7.0,Positif,positive,Mot,other,ok,meal,auto:gcp,gcp,ok
 Bidia bia dibanji,Noce,noce,8.0,8.0,Positif,positive,Mot,other,ok,wedding,auto:gcp,gcp,ok
 Bidia bia Mukelenge,Cène,cène,6.0,6.0,Positif,positive,Mot,other,ok,last supper,auto:gcp,gcp,ok
-Bidia bidi kabiyi ne luevene,Pain sans levain,pain sans levain,3.0,3.0,Neutre,neutral,Mot,other,ok,,,,
+Bidia bidi kabiyi ne luevene,Pain sans levain,pain sans levain,3.0,3.0,Neutre,neutral,Mot,other,ok,nan,,,
 "Bidimu, wa bidimu…",Âge,âge,0.0,0.0,Neutre,neutral,Mot,other,ok,age,auto:gcp,gcp,ok
 Bielelu,Instrument,instrument,2.0,2.0,Neutre,neutral,Mot,other,ok,instrument,auto:gcp,gcp,ok
 Biensheshi,Soupçon,soupçon,-6.0,-6.0,Negatif,negative,Mot,other,ok,suspicion,auto:gcp,gcp,ok
@@ -5121,36 +5121,36 @@ Bilondeshele,Relativement,relativement,0.0,0.0,Neutre,neutral,Mot,other,ok,relat
 Bilongo,Lis,lis,5.0,5.0,Positif,positive,Mot,other,ok,read,auto:gcp,gcp,ok
 Bilongolola,Prêt,prêt,6.0,6.0,Positif,positive,Mot,other,ok,ready,auto:gcp,gcp,ok
 Bilulu,Habillement,habillement,2.0,2.0,Neutre,neutral,Mot,other,ok,clothing,auto:gcp,gcp,ok
-"Bilungakaja bimpe, kulamakaja",Ajusté ensemble,ajusté ensemble,5.0,5.0,Positif,positive,Mot,other,ok,,,,
+"Bilungakaja bimpe, kulamakaja",Ajusté ensemble,ajusté ensemble,5.0,5.0,Positif,positive,Mot,other,ok,nan,,,
 Bimane,Interdi,interdi,-8.0,-8.0,Negatif,negative,Mot,other,ok,forbidden,auto:gcp,gcp,ok
 Bimpe,Justement,justement,9.0,9.0,Positif,positive,Mot,other,ok,exactly,auto:gcp,gcp,ok
 kumona,Clairement,clairement,6.0,6.0,Positif,positive,Mot,other,ok,clearly,auto:gcp,gcp,ok
 mushindu,Sûrement,sûrement,8.0,8.0,Positif,positive,Mot,other,ok,certainly,auto:gcp,gcp,ok
 ne kalolo,Diligemment,diligemment,9.0,9.0,Positif,positive,Mot,other,ok,diligently,auto:gcp,gcp,ok
 Bimunyi,Lanterne,lanterne,1.0,1.0,Neutre,neutral,Mot,other,ok,lantern,auto:gcp,gcp,ok
-Binamanya,Pourvu que,pourvu que,0.0,0.0,Neutre,neutral,Mot,other,ok,,,,
-Bingikala ntshiyi ngenza,Malgré moi,malgré moi,-3.0,-3.0,Negatif,negative,Mot,other,ok,,,,
+Binamanya,Pourvu que,pourvu que,0.0,0.0,Neutre,neutral,Mot,other,ok,nan,,,
+Bingikala ntshiyi ngenza,Malgré moi,malgré moi,-3.0,-3.0,Negatif,negative,Mot,other,ok,nan,,,
 Bintu,Subsistance,subsistance,4.0,4.0,Positif,positive,Mot,other,ok,subsistence,auto:gcp,gcp,ok
 bujitu,Cargaison,cargaison,2.0,2.0,Neutre,neutral,Mot,other,ok,cargo,auto:gcp,gcp,ok
 Bintu bia bu ngenda,Marchandise,marchandise,3.0,3.0,Neutre,neutral,Mot,other,ok,merchandise,auto:gcp,gcp,ok
 Bintu bia bululu,Fiel,fiel,-7.0,-7.0,Negatif,negative,Mot,other,ok,gall,auto:gcp,gcp,ok
 Bintu bia mupuya muimpe,Aromates,aromates,5.0,5.0,Positif,positive,Mot,other,ok,herbs,auto:gcp,gcp,ok
 Bintu bimansha ku diala,Ordure,ordure,-8.0,-8.0,Negatif,negative,Mot,other,ok,garbage,auto:gcp,gcp,ok
-Binunu bibidi,Deux mille,deux mille,0.0,0.0,Neutre,neutral,Nombre,number,ok,,,,
-Binunu binayi,Quatre mille,quatre mille,0.0,0.0,Neutre,neutral,Nombre,number,ok,,,,
-Binunu bisatu,Trois mille,trois mille,0.0,0.0,Neutre,neutral,Nombre,number,ok,,,,
-Binunu bitanu,Cinq mille,cinq mille,0.0,0.0,Neutre,neutral,Nombre,number,ok,,,,
-Binunu dikumi,Dix mille,dix mille,0.0,0.0,Neutre,neutral,Nombre,number,ok,,,,
-Binunu dikumi ne bibidi,Douze mille,douze mille,0.0,0.0,Neutre,neutral,Nombre,number,ok,,,,
-Binunu makumi abidi,Vingt mille,vingt mille,0.0,0.0,Neutre,neutral,Nombre,number,ok,,,,
-Binunu makumi abidi ne bisatu,Vingt-trois mille,vingt-trois mille,0.0,0.0,Neutre,neutral,Nombre,number,ok,,,,
+Binunu bibidi,Deux mille,deux mille,0.0,0.0,Neutre,neutral,Nombre,number,ok,nan,,,
+Binunu binayi,Quatre mille,quatre mille,0.0,0.0,Neutre,neutral,Nombre,number,ok,nan,,,
+Binunu bisatu,Trois mille,trois mille,0.0,0.0,Neutre,neutral,Nombre,number,ok,nan,,,
+Binunu bitanu,Cinq mille,cinq mille,0.0,0.0,Neutre,neutral,Nombre,number,ok,nan,,,
+Binunu dikumi,Dix mille,dix mille,0.0,0.0,Neutre,neutral,Nombre,number,ok,nan,,,
+Binunu dikumi ne bibidi,Douze mille,douze mille,0.0,0.0,Neutre,neutral,Nombre,number,ok,nan,,,
+Binunu makumi abidi,Vingt mille,vingt mille,0.0,0.0,Neutre,neutral,Nombre,number,ok,nan,,,
+Binunu makumi abidi ne bisatu,Vingt-trois mille,vingt-trois mille,0.0,0.0,Neutre,neutral,Nombre,number,ok,nan,,,
 "Bipendu, kupenda",outrager,outrager,-8.0,-8.0,Negatif,negative,Verbe,verb,ok,to outrage,auto:gcp,gcp,ok
 Bipia,Tresse,tresse,2.0,2.0,Neutre,neutral,Mot,other,ok,braided,auto:gcp,gcp,ok
 tshipiminu,Bath,bath,5.0,5.0,Positif,positive,Mot,other,ok,bath,auto:gcp,gcp,ok
 Bipusu,Gousse,gousse,1.0,1.0,Neutre,neutral,Mot,other,ok,pod,auto:gcp,gcp,ok
 Bisabata,Sandale,sandale,0.0,0.0,Neutre,neutral,Mot,other,ok,sandal,auto:gcp,gcp,ok
 Bisaka,Corbeille,corbeille,1.0,1.0,Neutre,neutral,Mot,other,ok,basket,auto:gcp,gcp,ok
-Bisambusambu (disanka dia),fête de,fête de,7.0,7.0,Positif,positive,Mot,other,ok,,,,
+Bisambusambu (disanka dia),fête de,fête de,7.0,7.0,Positif,positive,Mot,other,ok,nan,,,
 Bishilangane,Contrairement,contrairement,-2.0,-2.0,Neutre,neutral,Mot,other,ok,contrary to,auto:gcp,gcp,ok
 Bishimikidi,Principe,principe,6.0,6.0,Positif,positive,Mot,other,ok,principle,auto:gcp,gcp,ok
 Bisonji,Larme,larme,-5.0,-5.0,Negatif,negative,Mot,other,ok,tear,auto:gcp,gcp,ok
@@ -5166,7 +5166,7 @@ Bitupa bia mubidi,Membre,membre,1.0,1.0,Neutre,neutral,Mot,other,ok,member,auto:
 Biuma,Bien-être,bien-être,9.0,9.0,Positif,positive,Mot,other,ok,well-being,auto:gcp,gcp,ok
 Bizakalazakala,Raboteux,raboteux,-4.0,-4.0,Negatif,negative,Mot,other,ok,rugged,auto:gcp,gcp,ok
 Bouwa,Peut-être,peut-être,0.0,0.0,Neutre,neutral,Mot,other,ok,maybe,auto:gcp,gcp,ok
-Bu,Guise de,guise de,-1.0,-1.0,Neutre,neutral,Mot,other,ok,,,,
+Bu,Guise de,guise de,-1.0,-1.0,Neutre,neutral,Mot,other,ok,nan,,,
 Bu (pabuipi ne),Environ,environ,0.0,0.0,Neutre,neutral,Mot,other,ok,approximately,auto:gcp,gcp,ok
 Bu Mubidi,Corporel,corporel,2.0,2.0,Neutre,neutral,Mot,other,ok,bodily,auto:gcp,gcp,ok
 Bu mudi,Suivant,suivant,0.0,0.0,Neutre,neutral,Mot,other,ok,following,auto:gcp,gcp,ok
@@ -5186,11 +5186,11 @@ Bualu bua,Effet,effet,4.0,4.0,Positif,positive,Mot,other,ok,effect,auto:gcp,gcp,
 Bualu bua kukema,Prodige,prodige,8.0,8.0,Positif,positive,Mot,other,ok,prodigy,auto:gcp,gcp,ok
 Bualu bukole,Nécessaire,nécessaire,-3.0,-3.0,Negatif,negative,Mot,other,ok,necessary,auto:gcp,gcp,ok
 Bualu busokoka,Mystère,mystère,2.0,2.0,Neutre,neutral,Mot,other,ok,mystery,auto:gcp,gcp,ok
-Bualu busokoka bua bupidia,Mystère d'iniquité,mystère d'iniquité,-7.0,-7.0,Negatif,negative,Mot,other,ok,,,,
+Bualu busokoka bua bupidia,Mystère d'iniquité,mystère d'iniquité,-7.0,-7.0,Negatif,negative,Mot,other,ok,nan,,,
 muanda,Nouvelle,nouvelle,5.0,5.0,Positif,positive,Mot,other,ok,new,auto:gcp,gcp,ok
 Buana,Enfance,enfance,4.0,4.0,Positif,positive,Mot,other,ok,childhood,auto:gcp,gcp,ok
 Buanga bua kulaba ku mesu,Collyre,collyre,0.0,0.0,Neutre,neutral,Mot,other,ok,eye drops,auto:gcp,gcp,ok
-Buatu,"Nacelle, Navire","nacelle, navire",0.0,0.0,Neutre,neutral,Mot,other,ok,,,,
+Buatu,"Nacelle, Navire","nacelle, navire",0.0,0.0,Neutre,neutral,Mot,other,ok,nan,,,
 Buatu bukese,Chaloupe,chaloupe,0.0,0.0,Neutre,neutral,Mot,other,ok,boat,auto:gcp,gcp,ok
 mushete,Arche,arche,6.0,6.0,Positif,positive,Mot,other,ok,ark,auto:gcp,gcp,ok
 Buatu.,Barque,barque,3.0,3.0,Neutre,neutral,Mot,other,ok,boat,auto:gcp,gcp,ok
@@ -5241,13 +5241,13 @@ Diapa,Épaule,épaule,2.0,2.0,Neutre,neutral,Mot,other,ok,shoulder,auto:gcp,gcp,
 Diba,Heure,heure,4.0,4.0,Positif,positive,Mot,other,ok,hour,auto:gcp,gcp,ok
 Diba,Soleil,soleil,6.0,6.0,Positif,positive,Mot,other,ok,sun,auto:gcp,gcp,ok
 Diba adi,Aussitôt,aussitôt,0.0,0.0,Neutre,neutral,Mot,other,ok,right away,auto:gcp,gcp,ok
-Diba dia buakane,Soleil de justice,soleil de justice,8.0,8.0,Positif,positive,Mot,other,ok,,,,
+Diba dia buakane,Soleil de justice,soleil de justice,8.0,8.0,Positif,positive,Mot,other,ok,nan,,,
 Diba dikese,Isubstantif,isubstantif,3.0,3.0,Neutre,neutral,Mot,other,ok,isosubstantive,auto:gcp,gcp,ok
 Dibaka,Mariage,mariage,7.0,7.0,Positif,positive,Mot,other,ok,marriage,auto:gcp,gcp,ok
 Dibala,Lecture,lecture,5.0,5.0,Positif,positive,Mot,other,ok,reading,auto:gcp,gcp,ok
-Dibanza,"Dette, Dû","dette, dû",-6.0,-6.0,Negatif,negative,Mot,other,ok,,,,
+Dibanza,"Dette, Dû","dette, dû",-6.0,-6.0,Negatif,negative,Mot,other,ok,nan,,,
 Dibaya,Planche,planche,2.0,2.0,Neutre,neutral,Mot,other,ok,plank,auto:gcp,gcp,ok
-Dibeji,"Feuille, Papier","feuille, papier",3.0,3.0,Neutre,neutral,Mot,other,ok,,,,
+Dibeji,"Feuille, Papier","feuille, papier",3.0,3.0,Neutre,neutral,Mot,other,ok,nan,,,
 Dibela,Discipliner,discipliner,4.0,4.0,Positif,positive,Verbe,verb,ok,discipline,auto:gcp,gcp,ok
 Dibidi (dituku),Deuxième,deuxième,0.0,0.0,Neutre,neutral,Mot,other,ok,second,auto:gcp,gcp,ok
 Dibika ku lufu,Résurrection,résurrection,9.0,9.0,Positif,positive,Mot,other,ok,resurrection,auto:gcp,gcp,ok
@@ -5255,9 +5255,9 @@ Dibikidibua,Vocation,vocation,7.0,7.0,Positif,positive,Mot,other,ok,vocation,aut
 Dibikila,Appel,appel,6.0,6.0,Positif,positive,Mot,other,ok,call,auto:gcp,gcp,ok
 Dibingishibua,Justification,justification,8.0,8.0,Positif,positive,Mot,other,ok,justification,auto:gcp,gcp,ok
 Diboko,Bras,bras,2.0,2.0,Neutre,neutral,Mot,other,ok,arm,auto:gcp,gcp,ok
-Dibue,Maîtresse pierre du coin,maîtresse pierre du coin,0.0,0.0,Neutre,neutral,Mot,other,ok,,,,
+Dibue,Maîtresse pierre du coin,maîtresse pierre du coin,0.0,0.0,Neutre,neutral,Mot,other,ok,nan,,,
 Dibue a mushinga mukole,Permanent,permanent,4.0,4.0,Positif,positive,Mot,other,ok,permanent,auto:gcp,gcp,ok
-Dibue dia muditumba,cause d'achoppement,cause d'achoppement,-7.0,-7.0,Negatif,negative,Mot,other,ok,,,,
+Dibue dia muditumba,cause d'achoppement,cause d'achoppement,-7.0,-7.0,Negatif,negative,Mot,other,ok,nan,,,
 Dibue dia tshilenduishi,Piété,piété,8.0,8.0,Positif,positive,Mot,other,ok,piety,auto:gcp,gcp,ok
 Dibue dinene,Meule,meule,0.0,0.0,Neutre,neutral,Mot,other,ok,grindstone,auto:gcp,gcp,ok
 "Dibue dinene, lubuebue",Roc,roc,5.0,5.0,Positif,positive,Mot,other,ok,rock,auto:gcp,gcp,ok
@@ -5270,7 +5270,7 @@ Dibuikidila,Pardon,pardon,9.0,9.0,Positif,positive,Mot,other,ok,pardon,auto:gcp,
 Dibuikidila (mulambu wa),Propitiation,propitiation,8.0,8.0,Positif,positive,Mot,other,ok,propitiation,auto:gcp,gcp,ok
 Dibulu,Masse,masse,0.0,0.0,Neutre,neutral,Mot,other,ok,mass,auto:gcp,gcp,ok
 Dibuluibua,Révélation,révélation,9.0,9.0,Positif,positive,Mot,other,ok,revelation,auto:gcp,gcp,ok
-Dibungama,"Défait, Regret","défait, regret",-6.0,-6.0,Negatif,negative,Mot,other,ok,,,,
+Dibungama,"Défait, Regret","défait, regret",-6.0,-6.0,Negatif,negative,Mot,other,ok,nan,,,
 Dibungi,Nuage,nuage,0.0,0.0,Neutre,neutral,Mot,other,ok,cloud,auto:gcp,gcp,ok
 Dibungibungi,Vapeur,vapeur,0.0,0.0,Neutre,neutral,Mot,other,ok,steam,auto:gcp,gcp,ok
 Dibutuka,Destruction,destruction,-9.0,-9.0,Negatif,negative,Mot,other,ok,destruction,auto:gcp,gcp,ok
@@ -5290,11 +5290,11 @@ Didiundisha,Édification,édification,6.0,6.0,Positif,positive,Mot,other,ok,buil
 Dieba, Épine,épine,-3.0,-3.0,Negatif,negative,Mot,other,ok,spiked,auto:gcp,gcp,ok
 Diedibua dia manyi,Onction,onction,7.0,7.0,Positif,positive,Mot,other,ok,anointing,auto:gcp,gcp,ok
 Dienza,Opérant,opérant,5.0,5.0,Positif,positive,Mot,other,ok,operating,auto:gcp,gcp,ok
-Dienzeja dia dipambuka,Énergie d'erreur,énergie d'erreur,-6.0,-6.0,Negatif,negative,Mot,other,ok,,,,
+Dienzeja dia dipambuka,Énergie d'erreur,énergie d'erreur,-6.0,-6.0,Negatif,negative,Mot,other,ok,nan,,,
 Dienzejibua ku bukole,Contrainte,contrainte,-7.0,-7.0,Negatif,negative,Mot,other,ok,constraint,auto:gcp,gcp,ok
 Difika dia munda,Indignation,indignation,-8.0,-8.0,Negatif,negative,Mot,other,ok,indignation,auto:gcp,gcp,ok
 Difikisha munda,Irritation,irritation,-6.0,-6.0,Negatif,negative,Mot,other,ok,irritation,auto:gcp,gcp,ok
-Difu,"Estomac, Matrice","estomac, matrice",0.0,0.0,Neutre,neutral,Mot,other,ok,,,,
+Difu,"Estomac, Matrice","estomac, matrice",0.0,0.0,Neutre,neutral,Mot,other,ok,nan,,,
 Difuma,Lance,lance,1.0,1.0,Neutre,neutral,Mot,other,ok,spear,auto:gcp,gcp,ok
 Difutu,Rémunération,rémunération,0.0,0.0,Neutre,neutral,Mot,other,ok,remuneration,auto:gcp,gcp,ok
 Dikenga,Tribulation,tribulation,-8.0,-8.0,Negatif,negative,Mot,other,ok,tribulation,auto:gcp,gcp,ok
@@ -5311,7 +5311,7 @@ Dikuatshishangana,Utilité,utilité,4.0,4.0,Positif,positive,Mot,other,ok,utilit
 Dikudimuka,Variation,variation,0.0,0.0,Neutre,neutral,Mot,other,ok,variation,auto:gcp,gcp,ok
 Dikudimuna,Changement,changement,0.0,0.0,Neutre,neutral,Mot,other,ok,change,auto:gcp,gcp,ok
 Dikudimuna dia mutshima,Repentance,repentance,8.0,8.0,Positif,positive,Mot,other,ok,repentance,auto:gcp,gcp,ok
-Dikuma dia mutshima bipeta mu njila mibi,Avide d'un gain honteux,avide d'un gain honteux,-6.0,-6.0,Negatif,negative,Mot,other,ok,,,,
+Dikuma dia mutshima bipeta mu njila mibi,Avide d'un gain honteux,avide d'un gain honteux,-6.0,-6.0,Negatif,negative,Mot,other,ok,nan,,,
 Dikuma dia mutshima ku biuma,Avarice,avarice,-7.0,-7.0,Negatif,negative,Mot,other,ok,avarice,auto:gcp,gcp,ok
 Dikumbana,Accomplissement ,accomplissement,9.0,9.0,Positif,positive,Mot,other,ok,accomplishment,auto:gcp,gcp,ok
 Dikumi ne umue,Onzième,onzième,0.0,0.0,Neutre,neutral,Mot,other,ok,eleventh,auto:gcp,gcp,ok
@@ -5321,7 +5321,7 @@ Dikunza,Roux,roux,0.0,0.0,Neutre,neutral,Mot,other,ok,redhead,auto:gcp,gcp,ok
 Dikuta,Monnaie,monnaie,0.0,0.0,Neutre,neutral,Mot,other,ok,cash,auto:gcp,gcp,ok
 Dikuta dikese,Sou,sou,2.0,2.0,Neutre,neutral,Mot,other,ok,penny,auto:gcp,gcp,ok
 Diledibua kua tshiakabidi,Régénération,régénération,9.0,9.0,Positif,positive,Mot,other,ok,regeneration,auto:gcp,gcp,ok
-Dileja dia mampa,Propositions des pains,propositions des pains,6.0,6.0,Positif,positive,Mot,other,ok,,,,
+Dileja dia mampa,Propositions des pains,propositions des pains,6.0,6.0,Positif,positive,Mot,other,ok,nan,,,
 Dileja tshilema,Reproche,reproche,-6.0,-6.0,Negatif,negative,Mot,other,ok,reproach,auto:gcp,gcp,ok
 "Dilelela, tshidi tshia kueyemenyibua",Certain,certain,5.0,5.0,Positif,positive,Mot,other,ok,certain,auto:gcp,gcp,ok
 Dilengeja,Purification,purification,8.0,8.0,Positif,positive,Mot,other,ok,purification,auto:gcp,gcp,ok
@@ -5339,7 +5339,7 @@ Dilongesha,Enseignement,enseignement,6.0,6.0,Positif,positive,Mot,other,ok,educa
 Dilongolola,Redressement,redressement,5.0,5.0,Positif,positive,Mot,other,ok,recovery,auto:gcp,gcp,ok
 Dilua,Venue,venue,5.0,5.0,Positif,positive,Mot,other,ok,coming,auto:gcp,gcp,ok
 Diluangana,Lutte,lutte,-4.0,-4.0,Negatif,negative,Mot,other,ok,struggle,auto:gcp,gcp,ok
-Dilubakana,Embarras (être dans l'),embarras (être dans l'),-5.0,-5.0,Negatif,negative,Mot,other,ok,,,,
+Dilubakana,Embarras (être dans l'),embarras (être dans l'),-5.0,-5.0,Negatif,negative,Mot,other,ok,nan,,,
 Dilulama,Droiture,droiture,8.0,8.0,Positif,positive,Mot,other,ok,righteousness,auto:gcp,gcp,ok
 Dilumbuluisha,Jugement,jugement,7.0,7.0,Positif,positive,Mot,other,ok,judgement,auto:gcp,gcp,ok
 Dima,Argile,argile,0.0,0.0,Neutre,neutral,Mot,other,ok,clay,auto:gcp,gcp,ok
@@ -5357,7 +5357,7 @@ Dinanga,Amour,amour,9.0,9.0,Positif,positive,Mot,other,ok,love,auto:gcp,gcp,ok
 "Dinanga, Kusua (kuimpe) (1)",Affection,affection,8.0,8.0,Positif,positive,Mot,other,ok,affection,auto:gcp,gcp,ok
 Dinanukila,Persévérer,persévérer,7.0,7.0,Positif,positive,Verbe,verb,ok,persevere,auto:gcp,gcp,ok
 Dinda,Matin,matin,5.0,5.0,Positif,positive,Mot,other,ok,Morning,auto:gcp,gcp,ok
-Dinda,Point du jour,point du jour,6.0,6.0,Positif,positive,Mot,other,ok,,,,
+Dinda,Point du jour,point du jour,6.0,6.0,Positif,positive,Mot,other,ok,nan,,,
 Dinemekela,Révérence,révérence,8.0,8.0,Positif,positive,Mot,other,ok,reverence,auto:gcp,gcp,ok
 Dinkenke,Splendeur,splendeur,9.0,9.0,Positif,positive,Mot,other,ok,splendor,auto:gcp,gcp,ok
 Dinowa,Moisson,moisson,7.0,7.0,Positif,positive,Mot,other,ok,harvest,auto:gcp,gcp,ok
@@ -5373,7 +5373,7 @@ Dinyoka,Sentence,sentence,4.0,4.0,Positif,positive,Mot,other,ok,sentence,auto:gc
 Dinyunguluka,Tour,tour,0.0,0.0,Neutre,neutral,Mot,other,ok,round,auto:gcp,gcp,ok
 Diondoka,Profond,profond,5.0,5.0,Positif,positive,Mot,other,ok,deep,auto:gcp,gcp,ok
 Dipa,Présent,présent,7.0,7.0,Positif,positive,Mot,other,ok,here,auto:gcp,gcp,ok
-Dipa dia luse,Don de grâce,don de grâce,9.0,9.0,Positif,positive,Mot,other,ok,,,,
+Dipa dia luse,Don de grâce,don de grâce,9.0,9.0,Positif,positive,Mot,other,ok,nan,,,
 Dipambuisha,Séduction,séduction,-6.0,-6.0,Negatif,negative,Mot,other,ok,seduction,auto:gcp,gcp,ok
 Dipambuka,Erreur,erreur,-7.0,-7.0,Negatif,negative,Mot,other,ok,error,auto:gcp,gcp,ok
 Dipandulula,Division,division,-5.0,-5.0,Negatif,negative,Mot,other,ok,division,auto:gcp,gcp,ok
@@ -5390,12 +5390,12 @@ Dipila,Condamnation,condamnation,-9.0,-9.0,Negatif,negative,Mot,other,ok,convict
 Dipita (bukole),Victoire,victoire,9.0,9.0,Positif,positive,Mot,other,ok,victory,auto:gcp,gcp,ok
 Dipumbisha,Obstacle,obstacle,-6.0,-6.0,Negatif,negative,Mot,other,ok,obstacle,auto:gcp,gcp,ok
 Dipumbishibua,Absence,absence,-4.0,-4.0,Negatif,negative,Mot,other,ok,absence,auto:gcp,gcp,ok
-Dipunga diyi,Consentement mutuel,consentement mutuel,6.0,6.0,Positif,positive,Mot,other,ok,,,,
+Dipunga diyi,Consentement mutuel,consentement mutuel,6.0,6.0,Positif,positive,Mot,other,ok,nan,,,
 Dipungi,Fatigue ,fatigue,-5.0,-5.0,Negatif,negative,Mot,other,ok,fatigue,auto:gcp,gcp,ok
 Dipuyakana,Respiration,respiration,4.0,4.0,Positif,positive,Mot,other,ok,breathing,auto:gcp,gcp,ok
 Disakidila,Gratitude,gratitude,8.0,8.0,Positif,positive,Mot,other,ok,gratitude,auto:gcp,gcp,ok
 Disalayi,Satellite,satellite,0.0,0.0,Neutre,neutral,Mot,other,ok,satellite,auto:gcp,gcp,ok
-Disalayi dilami dia tshitudilu,Préfet du prétoire,préfet du prétoire,0.0,0.0,Neutre,neutral,Mot,other,ok,,,,
+Disalayi dilami dia tshitudilu,Préfet du prétoire,préfet du prétoire,0.0,0.0,Neutre,neutral,Mot,other,ok,nan,,,
 Disama, Maladie,maladie,-8.0,-8.0,Negatif,negative,Mot,other,ok,disease,auto:gcp,gcp,ok
 Disama dia mashi apatuka,Flux,flux,-3.0,-3.0,Negatif,negative,Mot,other,ok,flow,auto:gcp,gcp,ok
 Disama dia mubidi kapia,Fièvre,fièvre,-5.0,-5.0,Negatif,negative,Mot,other,ok,fever,auto:gcp,gcp,ok
@@ -5427,7 +5427,7 @@ Disunsula (tshintu),Détail,détail,0.0,0.0,Neutre,neutral,Mot,other,ok,detail,a
 Ditabala (mesu),Recouvrement,recouvrement,5.0,5.0,Positif,positive,Mot,other,ok,recovery,auto:gcp,gcp,ok
 Ditabuja,Réception,réception,6.0,6.0,Positif,positive,Mot,other,ok,reception,auto:gcp,gcp,ok
 Ditabuja (ditabuja dia buena kilisto),Fo,fo,9.0,9.0,Positif,positive,Mot,other,ok,fo,auto:gcp,gcp,ok
-Ditabuja dikese,Petite foi,petite foi,-3.0,-3.0,Negatif,negative,Mot,other,ok,,,,
+Ditabuja dikese,Petite foi,petite foi,-3.0,-3.0,Negatif,negative,Mot,other,ok,nan,,,
 Ditabujija,Perte,perte,-7.0,-7.0,Negatif,negative,Mot,other,ok,loss,auto:gcp,gcp,ok
 Ditalala,Paix,paix,8.0,8.0,Positif,positive,Mot,other,ok,peace,auto:gcp,gcp,ok
 Ditama,Joue,joue,0.0,0.0,Neutre,neutral,Mot,other,ok,plays,auto:gcp,gcp,ok
@@ -5442,7 +5442,7 @@ Ditekemena,Espérance,espérance,9.0,9.0,Positif,positive,Mot,other,ok,hope,auto
 Ditendelela,Culte,culte,8.0,8.0,Positif,positive,Mot,other,ok,worship,auto:gcp,gcp,ok
 Ditengula,Circoncision,circoncision,0.0,0.0,Neutre,neutral,Mot,other,ok,circumcision,auto:gcp,gcp,ok
 "Ditengula, divula",Dépouillement,dépouillement,-6.0,-6.0,Negatif,negative,Mot,other,ok,counting,auto:gcp,gcp,ok
-Ditentekesha dia bianza,Imposition des mains,imposition des mains,7.0,7.0,Positif,positive,Mot,other,ok,,,,
+Ditentekesha dia bianza,Imposition des mains,imposition des mains,7.0,7.0,Positif,positive,Mot,other,ok,nan,,,
 Diteta,Épreuve,épreuve,-5.0,-5.0,Negatif,negative,Mot,other,ok,test,auto:gcp,gcp,ok
 Ditoka dikole,Blancheur,blancheur,6.0,6.0,Positif,positive,Mot,other,ok,whiteness,auto:gcp,gcp,ok
 Ditomboka,Sédition,sédition,-8.0,-8.0,Negatif,negative,Mot,other,ok,sedition,auto:gcp,gcp,ok
@@ -5457,10 +5457,10 @@ Ditua mikemu,Gémissement,gémissement,-6.0,-6.0,Negatif,negative,Mot,other,ok,g
 Dituaya,Tablier,tablier,0.0,0.0,Neutre,neutral,Mot,other,ok,apron,auto:gcp,gcp,ok
 Dituayi,Mouchoir,mouchoir,0.0,0.0,Neutre,neutral,Mot,other,ok,handkerchief,auto:gcp,gcp,ok
 Ditubula,Pénétrant,pénétrant,5.0,5.0,Positif,positive,Mot,other,ok,penetrating,auto:gcp,gcp,ok
-Dituku,"Jour, Journée","jour, journée",4.0,4.0,Positif,positive,Mot,other,ok,,,,
-Dituku dia Diledibua,Anniversaire de naissance,anniversaire de naissance,6.0,6.0,Positif,positive,Mot,other,ok,,,,
+Dituku,"Jour, Journée","jour, journée",4.0,4.0,Positif,positive,Mot,other,ok,nan,,,
+Dituku dia Diledibua,Anniversaire de naissance,anniversaire de naissance,6.0,6.0,Positif,positive,Mot,other,ok,nan,,,
 Dituku dia disanka,Fête,fête,8.0,8.0,Positif,positive,Mot,other,ok,party,auto:gcp,gcp,ok
-Dituku dia Mukelenge,Jour du Seigneur,jour du seigneur,9.0,9.0,Positif,positive,Mot,other,ok,,,,
+Dituku dia Mukelenge,Jour du Seigneur,jour du seigneur,9.0,9.0,Positif,positive,Mot,other,ok,nan,,,
 Ditumbisha,Louange,louange,9.0,9.0,Positif,positive,Mot,other,ok,praise,auto:gcp,gcp,ok
 Ditumikila,Soumission,soumission,8.0,8.0,Positif,positive,Mot,other,ok,submission,auto:gcp,gcp,ok
 Ditupakana,Ignorance,ignorance,-7.0,-7.0,Negatif,negative,Mot,other,ok,ignorance,auto:gcp,gcp,ok
@@ -5486,7 +5486,7 @@ Tshilulu,Voile,voile,0.0,0.0,Neutre,neutral,Mot,other,ok,veil,auto:gcp,gcp,ok
 Tshilulu tshia line tshitoke,Linceul,linceul,-5.0,-5.0,Negatif,negative,Mot,other,ok,shroud,auto:gcp,gcp,ok
 Tshilumbu,Procès,procès,-6.0,-6.0,Negatif,negative,Mot,other,ok,trial,auto:gcp,gcp,ok
 Tshilumbuluidi,SaTribunal,satribunal,0.0,0.0,Neutre,neutral,Mot,other,ok,satribunal,auto:gcp,gcp,ok
-Tshimanu Tshitokesha,Paroi blanchie,paroi blanchie,-3.0,-3.0,Negatif,negative,Mot,other,ok,,,,
+Tshimanu Tshitokesha,Paroi blanchie,paroi blanchie,-3.0,-3.0,Negatif,negative,Mot,other,ok,nan,,,
 Tshimanyibue,Apparent,apparent,0.0,0.0,Neutre,neutral,Mot,other,ok,apparent,auto:gcp,gcp,ok
 Tshimanyinu,Preuve,preuve,4.0,4.0,Positif,positive,Mot,other,ok,evidence,auto:gcp,gcp,ok
 Tshimanyishilu (ne),Marqué,marqué,0.0,0.0,Neutre,neutral,Mot,other,ok,brand,auto:gcp,gcp,ok
@@ -5514,7 +5514,7 @@ Tshintu,Objet,objet,0.0,0.0,Neutre,neutral,Mot,other,ok,object,auto:gcp,gcp,ok
 Tshintu tshia (tshidi muntu mupete),Possession,possession,5.0,5.0,Positif,positive,Mot,other,ok,possession,auto:gcp,gcp,ok
 Tshintu tshia luse,Aumône,aumône,7.0,7.0,Positif,positive,Mot,other,ok,alms,auto:gcp,gcp,ok
 Tshintu tshia nvita,Arme,arme,0.0,0.0,Neutre,neutral,Mot,other,ok,armed,auto:gcp,gcp,ok
-Tshintu tshinyenga,Chose extorquée,chose extorquée,-6.0,-6.0,Negatif,negative,Mot,other,ok,,,,
+Tshintu tshinyenga,Chose extorquée,chose extorquée,-6.0,-6.0,Negatif,negative,Mot,other,ok,nan,,,
 "Tshintu, Tshiena
 bualu",Affaire,affaire,0.0,0.0,Neutre,neutral,Mot,other,ok,affair,auto:gcp,gcp,ok
 Tshintuluntulu,Subit,subit,-4.0,-4.0,Negatif,negative,Mot,other,ok,suddenly,auto:gcp,gcp,ok
@@ -5570,7 +5570,7 @@ Udi kayi muakanangane,Indigne,indigne,-7.0,-7.0,Negatif,negative,Mot,other,ok,un
 Udi kayi mubingishibue,Inexcusable,inexcusable,-9.0,-9.0,Negatif,negative,Mot,other,ok,inexcusable,auto:gcp,gcp,ok
 Udi kayi mujame,Inexpérimenté,inexpérimenté,-6.0,-6.0,Negatif,negative,Mot,other,ok,inexperienced,auto:gcp,gcp,ok
 Udi kayi mumanye mukanda,Illettré,illettré,-8.0,-8.0,Negatif,negative,Mot,other,ok,illiterate,auto:gcp,gcp,ok
-Udi kayi mushindame,Incertain dans ses pensées,incertain dans ses pensées,-5.0,-5.0,Negatif,negative,Mot,other,ok,,,,
+Udi kayi mushindame,Incertain dans ses pensées,incertain dans ses pensées,-5.0,-5.0,Negatif,negative,Mot,other,ok,nan,,,
 Udi kayi mutengula,Incirconcision,incirconcision,-7.0,-7.0,Negatif,negative,Mot,other,ok,uncircumcision,auto:gcp,gcp,ok
 Udi kayi ne bualu,Innocent,innocent,8.0,8.0,Positif,positive,Mot,other,ok,innocent,auto:gcp,gcp,ok
 "Udi kayi ne
@@ -5623,11 +5623,11 @@ Tshisangisha,Mélange,mélange,0.0,0.0,Neutre,neutral,Mot,other,ok,blend,auto:gc
 Tshisanji,Harpe,harpe,6.0,6.0,Positif,positive,Mot,other,ok,harp,auto:gcp,gcp,ok
 Tshisatu tshia pa,Tiers,tiers,0.0,0.0,Neutre,neutral,Mot,other,ok,third party,auto:gcp,gcp,ok
 Tshiseba,Cuir,cuir,0.0,0.0,Neutre,neutral,Mot,other,ok,leather,auto:gcp,gcp,ok
-Tshiseba tshia kufundila,"Parchemin, Peau","parchemin, peau",0.0,0.0,Neutre,neutral,Mot,other,ok,,,,
+Tshiseba tshia kufundila,"Parchemin, Peau","parchemin, peau",0.0,0.0,Neutre,neutral,Mot,other,ok,nan,,,
 Tshisenesha,Uni,uni,6.0,6.0,Positif,positive,Mot,other,ok,united,auto:gcp,gcp,ok
 Tshishi,Teigne,teigne,-6.0,-6.0,Negatif,negative,Mot,other,ok,ringworm,auto:gcp,gcp,ok
 Tshishiki,Entièrement,entièrement,7.0,7.0,Positif,positive,Mot,other,ok,entirely,auto:gcp,gcp,ok
-Tshishikula tshimue ne mbombo inayi ne binunu binayi,Cent quarante-quatre mille,cent quarante-quatre mille,0.0,0.0,Neutre,neutral,Nombre,number,ok,,,,
+Tshishikula tshimue ne mbombo inayi ne binunu binayi,Cent quarante-quatre mille,cent quarante-quatre mille,0.0,0.0,Neutre,neutral,Nombre,number,ok,nan,,,
 Tshishima,Miraculeux,miraculeux,9.0,9.0,Positif,positive,Mot,other,ok,miraculous,auto:gcp,gcp,ok
 Tshishimikidi,Soutien,soutien,8.0,8.0,Positif,positive,Mot,other,ok,support,auto:gcp,gcp,ok
 Tshishindame,Immobile,immobile,4.0,4.0,Positif,positive,Mot,other,ok,motionless,auto:gcp,gcp,ok
@@ -5676,7 +5676,7 @@ Tshivulukidi,Mémoire,mémoire,6.0,6.0,Positif,positive,Mot,other,ok,memory,auto
 Tshiyole,Famine,famine,-8.0,-8.0,Negatif,negative,Mot,other,ok,famine,auto:gcp,gcp,ok
 Tshume,Sec,sec,-4.0,-4.0,Negatif,negative,Mot,other,ok,dry,auto:gcp,gcp,ok
 Tshuwidi,Plénitude,plénitude,8.0,8.0,Positif,positive,Mot,other,ok,fullness,auto:gcp,gcp,ok
-Tsilulu tshipuekele,Costume décent,costume décent,7.0,7.0,Positif,positive,Mot,other,ok,,,,
+Tsilulu tshipuekele,Costume décent,costume décent,7.0,7.0,Positif,positive,Mot,other,ok,nan,,,
 Tsjiji,Rage,rage,-7.0,-7.0,Negatif,negative,Mot,other,ok,rage,auto:gcp,gcp,ok
 Tujila,Ruelle,ruelle,0.0,0.0,Neutre,neutral,Mot,other,ok,alley,auto:gcp,gcp,ok
 Tshidime,Cultivateur,cultivateur,5.0,5.0,Positif,positive,Mot,other,ok,farmer,auto:gcp,gcp,ok
@@ -5686,7 +5686,7 @@ mashika",Hiver,hiver,0.0,0.0,Neutre,neutral,Mot,other,ok,winter,auto:gcp,gcp,ok
 Tshidimu tshia mayowa,Été,été,5.0,5.0,Positif,positive,Mot,other,ok,summer,auto:gcp,gcp,ok
 Tshiena bualu,Sujet,sujet,0.0,0.0,Neutre,neutral,Mot,other,ok,subject,auto:gcp,gcp,ok
 Tshiena lomo,Latin,latin,0.0,0.0,Neutre,neutral,Mot,other,ok,Latin,auto:gcp,gcp,ok
-Tshiendelele,A Jamais,a jamais,9.0,9.0,Positif,positive,Mot,other,ok,,,,
+Tshiendelele,A Jamais,a jamais,9.0,9.0,Positif,positive,Mot,other,ok,nan,,,
 Tshiendelu,Parvis,parvis,4.0,4.0,Positif,positive,Mot,other,ok,forecourt,auto:gcp,gcp,ok
 Tshienzedi,Action,action,6.0,6.0,Positif,positive,Mot,other,ok,action,auto:gcp,gcp,ok
 "Tshienzedi, malu",Œuvre,œuvre,7.0,7.0,Positif,positive,Mot,other,ok,artwork,auto:gcp,gcp,ok
@@ -5695,7 +5695,7 @@ Tshifuafua,Mortel,mortel,-6.0,-6.0,Negatif,negative,Mot,other,ok,mortal,auto:gcp
 Tshifufu,Complot,complot,-7.0,-7.0,Negatif,negative,Mot,other,ok,conspiracy,auto:gcp,gcp,ok
 Tshifukibua,Créature,créature,6.0,6.0,Positif,positive,Mot,other,ok,creature,auto:gcp,gcp,ok
 "Tshifukibua tshipia
-tshipia",Nouvelle création,nouvelle création,8.0,8.0,Positif,positive,Mot,other,ok,,,,
+tshipia",Nouvelle création,nouvelle création,8.0,8.0,Positif,positive,Mot,other,ok,nan,,,
 Tshifulu,Casque,casque,4.0,4.0,Positif,positive,Mot,other,ok,helmet,auto:gcp,gcp,ok
 Tshifulu tshia butumbi,Diadème,diadème,7.0,7.0,Positif,positive,Mot,other,ok,tiara,auto:gcp,gcp,ok
 Tshiji,Colère,colère,-7.0,-7.0,Negatif,negative,Mot,other,ok,anger,auto:gcp,gcp,ok
@@ -5719,7 +5719,7 @@ Tshikondo tshimpe,Opportun,opportun,7.0,7.0,Positif,positive,Mot,other,ok,opport
 Tshikote,Cumin,cumin,0.0,0.0,Neutre,neutral,Mot,other,ok,cumin,auto:gcp,gcp,ok
 Tshikowelu,Vêtement,vêtement,4.0,4.0,Positif,positive,Mot,other,ok,garment,auto:gcp,gcp,ok
 Tshikoyeke,Immonde,immonde,-8.0,-8.0,Negatif,negative,Mot,other,ok,filthy,auto:gcp,gcp,ok
-Tshikumbane,Assez Utile,assez utile,5.0,5.0,Positif,positive,Mot,other,ok,,,,
+Tshikumbane,Assez Utile,assez utile,5.0,5.0,Positif,positive,Mot,other,ok,nan,,,
 "Tshikumbane, tshiûja",Complet,complet,8.0,8.0,Positif,positive,Mot,other,ok,complete,auto:gcp,gcp,ok
 Tshikusu,Ver,ver,-6.0,-6.0,Negatif,negative,Mot,other,ok,worm,auto:gcp,gcp,ok
 Tshikutu (tshia kapia),Fournaise,fournaise,-7.0,-7.0,Negatif,negative,Mot,other,ok,furnace,auto:gcp,gcp,ok
@@ -5749,9 +5749,9 @@ Tshia tshitshiu,Peuple,peuple,4.0,4.0,Positif,positive,Mot,other,ok,people,auto:
 Tshiabungi,Immense,immense,8.0,8.0,Positif,positive,Mot,other,ok,immense,auto:gcp,gcp,ok
 Tshiadi,Poitrine,poitrine,0.0,0.0,Neutre,neutral,Mot,other,ok,chest,auto:gcp,gcp,ok
 Tshiakabidi,Double,double,0.0,0.0,Neutre,neutral,Mot,other,ok,double,auto:gcp,gcp,ok
-Tshiakane Tshidi tshianyisha,Agréable Agréer,agréable agréer,8.0,8.0,Positif,positive,Mot,other,ok,,,,
+Tshiakane Tshidi tshianyisha,Agréable Agréer,agréable agréer,8.0,8.0,Positif,positive,Mot,other,ok,nan,,,
 "Tshiakane Tshidi
-tshisankisha",qui plait,qui plait,8.0,8.0,Positif,positive,Mot,other,ok,,,,
+tshisankisha",qui plait,qui plait,8.0,8.0,Positif,positive,Mot,other,ok,nan,,,
 Tshiakulakula,Conte,conte,5.0,5.0,Positif,positive,Mot,other,ok,tale,auto:gcp,gcp,ok
 Tshiamu tshia mitaku,Airain,airain,0.0,0.0,Neutre,neutral,Mot,other,ok,bronze,auto:gcp,gcp,ok
 Tshiamua,Fer,fer,0.0,0.0,Neutre,neutral,Mot,other,ok,iron,auto:gcp,gcp,ok
@@ -5767,7 +5767,7 @@ Tshibi,Mauvais,mauvais,-8.0,-8.0,Negatif,negative,Mot,other,ok,bad,auto:gcp,gcp,
 Tshibipe,Impur,impur,-6.0,-6.0,Negatif,negative,Mot,other,ok,impure,auto:gcp,gcp,ok
 Tshibishi,Vert,vert,0.0,0.0,Neutre,neutral,Mot,other,ok,Green,auto:gcp,gcp,ok
 Tshibobe,Maturité,maturité,7.0,7.0,Positif,positive,Mot,other,ok,maturity,auto:gcp,gcp,ok
-Tshibombu,Bourse,bourse,4.0,4.0,Positif,positive,Mot,other,ok,sotck exchange ,auto:gcp,gcp,ok
+Tshibombu,Bourse,bourse,4.0,4.0,Positif,positive,Mot,other,ok,sotck exchange,auto:gcp,gcp,ok
 Tshibueledi,Accès,accès,6.0,6.0,Positif,positive,Mot,other,ok,access,auto:gcp,gcp,ok
 Tshibuikilu (tshia mushete wa tshipungidi),Propitiatoire,propitiatoire,8.0,8.0,Positif,positive,Mot,other,ok,propitiatory,auto:gcp,gcp,ok
 "Tshibuikilu tshia pa
@@ -5781,7 +5781,7 @@ Thuya,Thuya,thuya,0.0,0.0,Neutre,neutral,Mot,other,ok,thuja,auto:gcp,gcp,ok
 Topaze,Topaze,topaze,7.0,7.0,Positif,positive,Mot,other,ok,topaz,auto:gcp,gcp,ok
 Tsha kabidi,Nouveau,nouveau,6.0,6.0,Positif,positive,Mot,other,ok,new,auto:gcp,gcp,ok
 Tshabungi be,Abondamment,abondamment,8.0,8.0,Positif,positive,Mot,other,ok,abundantly,auto:gcp,gcp,ok
-Tshakane (tshidi),ce qui est,ce qui est,9.0,9.0,Positif,positive,Mot,other,ok,,,,
+Tshakane (tshidi),ce qui est,ce qui est,9.0,9.0,Positif,positive,Mot,other,ok,nan,,,
 Tsheya,Caution,caution,7.0,7.0,Positif,positive,Mot,other,ok,deposit,auto:gcp,gcp,ok
 Tshia bademon,Diabolique,diabolique,-8.0,-8.0,Negatif,negative,Mot,other,ok,diabolical,auto:gcp,gcp,ok
 Tshia bukelenge,Royal,royal,9.0,9.0,Positif,positive,Mot,other,ok,royal,auto:gcp,gcp,ok
@@ -5865,7 +5865,7 @@ Ne tshiji,Misérablement,misérablement,-8.0,-8.0,Negatif,negative,Mot,other,ok,
 Ne tshijila,Purement,purement,9.0,9.0,Positif,positive,Mot,other,ok,purely,auto:gcp,gcp,ok
 Neje,Neige,neige,6.0,6.0,Positif,positive,Mot,other,ok,snow,auto:gcp,gcp,ok
 Nfigi,Figue,figue,5.0,5.0,Positif,positive,Mot,other,ok,fig,auto:gcp,gcp,ok
-Nfudilu,Bout,bout,0.0,0.0,Neutre,neutral,Mot,other,ok,end ,auto:gcp,gcp,ok
+Nfudilu,Bout,bout,0.0,0.0,Neutre,neutral,Mot,other,ok,end,auto:gcp,gcp,ok
 Nfulakatelio,Pièce,pièce,4.0,4.0,Positif,positive,Mot,other,ok,piece,auto:gcp,gcp,ok
 Nfumu,Chef,chef,7.0,7.0,Positif,positive,Mot,other,ok,chief,auto:gcp,gcp,ok
 Ngabu,Bouclier,bouclier,6.0,6.0,Positif,positive,Mot,other,ok,shield,auto:gcp,gcp,ok
@@ -5887,8 +5887,8 @@ Njila,Voie,voie,6.0,6.0,Positif,positive,Mot,other,ok,way,auto:gcp,gcp,ok
 Njila wa kupatukila,Issue,issue,5.0,5.0,Positif,positive,Mot,other,ok,issue,auto:gcp,gcp,ok
 Njila; kuya ne,Route,route,4.0,4.0,Positif,positive,Mot,other,ok,road,auto:gcp,gcp,ok
 Njiû,Périlleux,périlleux,-7.0,-7.0,Negatif,negative,Mot,other,ok,perilous,auto:gcp,gcp,ok
-Nkama ibidi,Deux cents,deux cents,0.0,0.0,Neutre,neutral,Nombre,number,ok,,,,
-Nkama inayi,Quatre cents,quatre cents,0.0,0.0,Neutre,neutral,Nombre,number,ok,,,,
+Nkama ibidi,Deux cents,deux cents,0.0,0.0,Neutre,neutral,Nombre,number,ok,nan,,,
+Nkama inayi,Quatre cents,quatre cents,0.0,0.0,Neutre,neutral,Nombre,number,ok,nan,,,
 Malu a kukema,Merveill,merveill,9.0,9.0,Positif,positive,Mot,other,ok,marvel,auto:gcp,gcp,ok
 Malu adi kaayi a Nzambi,Impiété,impiété,-8.0,-8.0,Negatif,negative,Mot,other,ok,impiety,auto:gcp,gcp,ok
 Maluvu,Cervoise,cervoise,0.0,0.0,Neutre,neutral,Mot,other,ok,beer,auto:gcp,gcp,ok
@@ -5902,7 +5902,7 @@ Mana,Manne,manne,8.0,8.0,Positif,positive,Mot,other,ok,manna,auto:gcp,gcp,ok
 Manananshi,Parfum,parfum,7.0,7.0,Positif,positive,Mot,other,ok,scent,auto:gcp,gcp,ok
 Mananshi a Nado,Nard,nard,6.0,6.0,Positif,positive,Mot,other,ok,nard,auto:gcp,gcp,ok
 Mansanga,Coin,coin,0.0,0.0,Neutre,neutral,Mot,other,ok,corner,auto:gcp,gcp,ok
-Manseba,,,4.0,4.0,Positif,positive,Mot,other,ok,,,,
+Manseba,,nan,4.0,4.0,Positif,positive,Mot,other,ok,nan,,,
 Manyi,Huile,huile,5.0,5.0,Positif,positive,Mot,other,ok,oil,auto:gcp,gcp,ok
 Mapuapua,Aile,aile,6.0,6.0,Positif,positive,Mot,other,ok,wing,auto:gcp,gcp,ok
 Marbre,Marbre,marbre,7.0,7.0,Positif,positive,Mot,other,ok,marble,auto:gcp,gcp,ok
@@ -5911,11 +5911,11 @@ Masangu,Carrefour,carrefour,0.0,0.0,Neutre,neutral,Mot,other,ok,crossroads,auto:
 Mashi,Sang,sang,-6.0,-6.0,Negatif,negative,Mot,other,ok,blood,auto:gcp,gcp,ok
 Mashika,Froid,froid,-4.0,-4.0,Negatif,negative,Mot,other,ok,cold,auto:gcp,gcp,ok
 Mashinde,Pâture,pâture,5.0,5.0,Positif,positive,Mot,other,ok,pasture,auto:gcp,gcp,ok
-Matambe,Infiniment plus,infiniment plus,8.0,8.0,Positif,positive,Mot,other,ok,,,,
+Matambe,Infiniment plus,infiniment plus,8.0,8.0,Positif,positive,Mot,other,ok,nan,,,
 Matandu,Querelle,querelle,-7.0,-7.0,Negatif,negative,Mot,other,ok,quarrel,auto:gcp,gcp,ok
 Mateketa, Infirmité,infirmité,-6.0,-6.0,Negatif,negative,Mot,other,ok,infirmity,auto:gcp,gcp,ok
 "Matshika, luseke",Territoire,territoire,4.0,4.0,Positif,positive,Mot,other,ok,territory,auto:gcp,gcp,ok
-Matshuwa,,,0.0,0.0,Neutre,neutral,Mot,other,ok,,,,
+Matshuwa,,nan,0.0,0.0,Neutre,neutral,Mot,other,ok,nan,,,
 Matuku (masomba),Séjour,séjour,5.0,5.0,Positif,positive,Mot,other,ok,stay,auto:gcp,gcp,ok
 Matuku alualua,Avenir,avenir,8.0,8.0,Positif,positive,Mot,other,ok,future,auto:gcp,gcp,ok
 Matumba anayi a bule bua muomumue,Carré,carré,0.0,0.0,Neutre,neutral,Mot,other,ok,square,auto:gcp,gcp,ok
@@ -5923,12 +5923,12 @@ Mavuala,Vague,vague,4.0,4.0,Positif,positive,Mot,other,ok,wave,auto:gcp,gcp,ok
 Mayi,Eau,eau,6.0,6.0,Positif,positive,Mot,other,ok,water,auto:gcp,gcp,ok
 Mayi adi ne muenji,Torrent,torrent,4.0,4.0,Positif,positive,Mot,other,ok,torrent,auto:gcp,gcp,ok
 "Mayi manene a
-talata",Mer de verre,mer de verre,7.0,7.0,Positif,positive,Mot,other,ok,,,,
+talata",Mer de verre,mer de verre,7.0,7.0,Positif,positive,Mot,other,ok,nan,,,
 Mayisha a kumudilu,Rudiment,rudiment,0.0,0.0,Neutre,neutral,Mot,other,ok,rudiment,auto:gcp,gcp,ok
 "Mayisha a kumudilu,
 bintu bidi bimueneka bia pa buloba",Élément,élément,5.0,5.0,Positif,positive,Mot,other,ok,element,auto:gcp,gcp,ok
 Mbila,Cri,cri,-5.0,-5.0,Negatif,negative,Mot,other,ok,cry,auto:gcp,gcp,ok
-Mbombo itanu,Cinquante mille,cinquante mille,0.0,0.0,Neutre,neutral,Nombre,number,ok,,,,
+Mbombo itanu,Cinquante mille,cinquante mille,0.0,0.0,Neutre,neutral,Nombre,number,ok,nan,,,
 "Mbombo ne
 mbombo",Millier,millier,0.0,0.0,Neutre,neutral,Nombre,number,ok,thousand,auto:gcp,gcp,ok
 Mbuji,Chèvre,chèvre,3.0,3.0,Neutre,neutral,Mot,other,ok,goat,auto:gcp,gcp,ok
@@ -5989,7 +5989,7 @@ Mpata; kutantamena,Contredit,contredit,-6.0,-6.0,Negatif,negative,Verbe,verb,ok,
 Mpaya,Sac,sac,0.0,0.0,Neutre,neutral,Mot,other,ok,bag,auto:gcp,gcp,ok
 Mpidieu,Incessamment,incessamment,7.0,7.0,Positif,positive,Mot,other,ok,shortly,auto:gcp,gcp,ok
 Mpingu,Idole,idole,-8.0,-8.0,Negatif,negative,Mot,other,ok,idol,auto:gcp,gcp,ok
-Mpokolo wa mayi,Réservoir d'eau,réservoir d'eau,4.0,4.0,Positif,positive,Mot,other,ok,,,,
+Mpokolo wa mayi,Réservoir d'eau,réservoir d'eau,4.0,4.0,Positif,positive,Mot,other,ok,nan,,,
 Mpongo,Vallée,vallée,5.0,5.0,Positif,positive,Mot,other,ok,valley,auto:gcp,gcp,ok
 Mpudi matshiu,Sourd,sourd,-6.0,-6.0,Negatif,negative,Mot,other,ok,deaf,auto:gcp,gcp,ok
 Mpukapuka,Aventure,aventure,6.0,6.0,Positif,positive,Mot,other,ok,adventure,auto:gcp,gcp,ok
@@ -6004,7 +6004,7 @@ Mputa wa lubangu,Gangrène,gangrène,-8.0,-8.0,Negatif,negative,Mot,other,ok,gan
 "Mputa, mikumu",Blessure,blessure,-6.0,-6.0,Negatif,negative,Mot,other,ok,injury,auto:gcp,gcp,ok
 Mputa,Ulcère,ulcère,-7.0,-7.0,Negatif,negative,Mot,other,ok,ulcer,auto:gcp,gcp,ok
 Mu bulelela,Certainement,certainement,8.0,8.0,Positif,positive,Mot,other,ok,certainly,auto:gcp,gcp,ok
-Mu difuanagana,Conformité de,conformité de,8.0,8.0,Positif,positive,Mot,other,ok,,,,
+Mu difuanagana,Conformité de,conformité de,8.0,8.0,Positif,positive,Mot,other,ok,nan,,,
 Mu dinyunguluka,Ronde ,ronde,5.0,5.0,Positif,positive,Mot,other,ok,round,auto:gcp,gcp,ok
 Mu kuenza (nunku),Entrefaites ,entrefaites,4.0,4.0,Positif,positive,Mot,other,ok,in the meantime,auto:gcp,gcp,ok
 Mu mayi,Large,large,6.0,6.0,Positif,positive,Mot,other,ok,wide,auto:gcp,gcp,ok
@@ -6027,7 +6027,7 @@ Muabanyanganyi,Participant,participant,6.0,6.0,Positif,positive,Mot,other,ok,par
 Muadi,Pleur,pleur,-6.0,-6.0,Negatif,negative,Mot,other,ok,cry,auto:gcp,gcp,ok
 Muakane,Juste,juste,9.0,9.0,Positif,positive,Mot,other,ok,just,auto:gcp,gcp,ok
 Muakuidi,Sacrificateur,sacrificateur,7.0,7.0,Positif,positive,Mot,other,ok,priest,auto:gcp,gcp,ok
-Muakuidi munene,Souverain sacrificateur,souverain sacrificateur,9.0,9.0,Positif,positive,Mot,other,ok,,,,
+Muakuidi munene,Souverain sacrificateur,souverain sacrificateur,9.0,9.0,Positif,positive,Mot,other,ok,nan,,,
 Muakulu,Langage,langage,6.0,6.0,Positif,positive,Mot,other,ok,language,auto:gcp,gcp,ok
 Muakulu (mukese),Dialecte,dialecte,5.0,5.0,Positif,positive,Mot,other,ok,dialect,auto:gcp,gcp,ok
 Muambi,Prédicateur,prédicateur,8.0,8.0,Positif,positive,Mot,other,ok,preacher,auto:gcp,gcp,ok
@@ -6039,11 +6039,11 @@ petit",7.0,7.0,Positif,positive,Mot,other,ok,"child, small",auto:gcp,gcp,ok
 Muana bute,Premier-né,premier-né,8.0,8.0,Positif,positive,Mot,other,ok,firstborn,auto:gcp,gcp,ok
 Muana mukaji,Fille,fille,7.0,7.0,Positif,positive,Mot,other,ok,girl,auto:gcp,gcp,ok
 Muana mulume,Fils,fils,8.0,8.0,Positif,positive,Mot,other,ok,son,auto:gcp,gcp,ok
-Muana wa dibutuka,Fils de perdition,fils de perdition,-8.0,-8.0,Negatif,negative,Mot,other,ok,,,,
+Muana wa dibutuka,Fils de perdition,fils de perdition,-8.0,-8.0,Negatif,negative,Mot,other,ok,nan,,,
 Muana wa masandi,Bâtard,bâtard,-7.0,-7.0,Negatif,negative,Mot,other,ok,bastard,auto:gcp,gcp,ok
-Muana wa mu ngena,Fils de la géhenne,fils de la géhenne,-9.0,-9.0,Negatif,negative,Mot,other,ok,,,,
+Muana wa mu ngena,Fils de la géhenne,fils de la géhenne,-9.0,-9.0,Negatif,negative,Mot,other,ok,nan,,,
 Muana wa mukoko,Agneau,agneau,9.0,9.0,Positif,positive,Mot,other,ok,lamb,auto:gcp,gcp,ok
-Muana wa munya,Fils de la lumière,fils de la lumière,9.0,9.0,Positif,positive,Mot,other,ok,,,,
+Muana wa munya,Fils de la lumière,fils de la lumière,9.0,9.0,Positif,positive,Mot,other,ok,nan,,,
 Muana wa ngombe mukaji,Génisse,génisse,0.0,0.0,Neutre,neutral,Mot,other,ok,heifer,auto:gcp,gcp,ok
 Muana wa Ngombe,Veau,veau,0.0,0.0,Neutre,neutral,Mot,other,ok,calf,auto:gcp,gcp,ok
 Muana wa nshiye,Orphelin,orphelin,-6.0,-6.0,Negatif,negative,Mot,other,ok,orphan,auto:gcp,gcp,ok
@@ -6054,7 +6054,7 @@ Muangatshi pamue,Coparticipant,coparticipant,7.0,7.0,Positif,positive,Mot,other,
 Muanjelo,Ange,ange,9.0,9.0,Positif,positive,Mot,other,ok,angel,auto:gcp,gcp,ok
 "Muanjelo mutambe
 bakuabu",Archange,archange,9.0,9.0,Positif,positive,Mot,other,ok,archangel,auto:gcp,gcp,ok
-Muanzankongolo,Arc en ciel,arc en ciel,9.0,9.0,Positif,positive,Mot,other,ok,,,,
+Muanzankongolo,Arc en ciel,arc en ciel,9.0,9.0,Positif,positive,Mot,other,ok,nan,,,
 Muasambi,Consolateur,consolateur,8.0,8.0,Positif,positive,Mot,other,ok,comforter,auto:gcp,gcp,ok
 Mubaki,Époux,époux,7.0,7.0,Positif,positive,Mot,other,ok,husband,auto:gcp,gcp,ok
 Mubandi,Accusateur,accusateur,-7.0,-7.0,Negatif,negative,Mot,other,ok,accuser,auto:gcp,gcp,ok
@@ -6176,7 +6176,7 @@ Mukana,Bouche,bouche,0.0,0.0,Neutre,neutral,Mot,other,ok,mouth,auto:gcp,gcp,ok
 Mukanda,Livre,livre,3.0,3.0,Positif,positive,Mot,other,ok,book,auto:gcp,gcp,ok
 Mukanda (mayi),Encre,encre,0.0,0.0,Neutre,neutral,Mot,other,ok,ink,auto:gcp,gcp,ok
 Mukanda muvung,Rouleau,rouleau,0.0,0.0,Neutre,neutral,Mot,other,ok,roll,auto:gcp,gcp,ok
-Mukanda wa bumanyishi,Lettre de recommandation,lettre de recommandation,6.0,6.0,Positif,positive,Mot,other,ok,,,,
+Mukanda wa bumanyishi,Lettre de recommandation,lettre de recommandation,6.0,6.0,Positif,positive,Mot,other,ok,nan,,,
 Mukawu,Jalousie,jalousie,-6.0,-6.0,Negatif,negative,Mot,other,ok,jealousy,auto:gcp,gcp,ok
 Mukebi,Meneur,meneur,2.0,2.0,Positif,positive,Mot,other,ok,leader,auto:gcp,gcp,ok
 Mukelenge,Seigneur,seigneur,3.0,3.0,Positif,positive,Mot,other,ok,lord,auto:gcp,gcp,ok
@@ -6266,7 +6266,7 @@ Mulumbuluishi,Préteur,préteur,2.0,2.0,Positif,positive,Mot,other,ok,lender,aut
 Mulume,Mari,mari,3.0,3.0,Positif,positive,Mot,other,ok,husband,auto:gcp,gcp,ok
 Mulume wa ngombe,Taureau,taureau,0.0,0.0,Neutre,neutral,Mot,other,ok,bull,auto:gcp,gcp,ok
 Mulunda,Ami,ami,4.0,4.0,Positif,positive,Mot,other,ok,friend,auto:gcp,gcp,ok
-Mulunda wa mubaki wa mukashi,Fils de la chambre nuptiale,fils de la chambre nuptiale,4.0,4.0,Positif,positive,Mot,other,ok,,,,
+Mulunda wa mubaki wa mukashi,Fils de la chambre nuptiale,fils de la chambre nuptiale,4.0,4.0,Positif,positive,Mot,other,ok,nan,,,
 Mulunda wa pa muoyo,Intime,intime,3.0,3.0,Positif,positive,Mot,other,ok,respondent,auto:gcp,gcp,ok
 Mumanyishi,Témoin,témoin,2.0,2.0,Positif,positive,Mot,other,ok,witness,auto:gcp,gcp,ok
 Mumiaminyi,Semeur,semeur,2.0,2.0,Positif,positive,Mot,other,ok,sower,auto:gcp,gcp,ok
@@ -6281,29 +6281,29 @@ Mundankulu,Minuit,minuit,0.0,0.0,Neutre,neutral,Mot,other,ok,midnight,auto:gcp,g
 Mundidimbi,Ombre,ombre,-1.0,-1.0,Positif,positive,Mot,other,ok,shadow,auto:gcp,gcp,ok
 Munene,Principal,principal,4.0,4.0,Positif,positive,Mot,other,ok,main,auto:gcp,gcp,ok
 "Munene wa masalayi
-abena lomo",,,-3.0,-3.0,Negatif,negative,Mot,other,ok,,,,
+abena lomo",,nan,-3.0,-3.0,Negatif,negative,Mot,other,ok,nan,,,
 Munowi,Moissonneur,moissonneur,2.0,2.0,Positif,positive,Mot,other,ok,reaper,auto:gcp,gcp,ok
 Muntu,Gens,gens,0.0,0.0,Neutre,neutral,Mot,other,ok,people,auto:gcp,gcp,ok
 Muntu Muakane,Juste,juste,5.0,5.0,Positif,positive,Mot,other,ok,just,auto:gcp,gcp,ok
-Muntu mubi,,,-8.0,-8.0,Negatif,negative,Mot,other,ok,,,,
+Muntu mubi,,nan,-8.0,-8.0,Negatif,negative,Mot,other,ok,nan,,,
 Muntu mubi,Profane,profane,-8.0,-8.0,Negatif,negative,Mot,other,ok,profane,auto:gcp,gcp,ok
 Muntu mubi (muaku),Injuste ,injuste,-7.0,-7.0,Negatif,negative,Mot,other,ok,unfair,auto:gcp,gcp,ok
 Muntu mubi (mufidi muleji ngikadilu),Injuste ,injuste,-7.0,-7.0,Negatif,negative,Mot,other,ok,unfair,auto:gcp,gcp,ok
-Muntu mukole,Homme fait,homme fait,2.0,2.0,Positif,positive,Mot,other,ok,,,,
+Muntu mukole,Homme fait,homme fait,2.0,2.0,Positif,positive,Mot,other,ok,nan,,,
 Muntu munene,Noble,noble,4.0,4.0,Positif,positive,Mot,other,ok,noble,auto:gcp,gcp,ok
 Muntu ne mukuabu,Mutuel,mutuel,3.0,3.0,Positif,positive,Mot,other,ok,mutual,auto:gcp,gcp,ok
 Muntu ne muntu,Individuellement,individuellement,0.0,0.0,Neutre,neutral,Mot,other,ok,individually,auto:gcp,gcp,ok
 "Muntu udi mupudikile, ne
 mupange dikima",Femmelette,femmelette,-5.0,-5.0,Negatif,negative,Mot,other,ok,sissy,auto:gcp,gcp,ok
 Muntu utshiena kamama (mulume anyi mukaji),Virginité,virginité,3.0,3.0,Positif,positive,Mot,other,ok,virginity,auto:gcp,gcp,ok
-Muntu wa munda,Homme intérieur,homme intérieur,2.0,2.0,Positif,positive,Mot,other,ok,,,,
-Muntu wa Nzambi,Homme de Dieu,homme de dieu,5.0,5.0,Positif,positive,Mot,other,ok,,,,
+Muntu wa munda,Homme intérieur,homme intérieur,2.0,2.0,Positif,positive,Mot,other,ok,nan,,,
+Muntu wa Nzambi,Homme de Dieu,homme de dieu,5.0,5.0,Positif,positive,Mot,other,ok,nan,,,
 Munu,Doigt,doigt,0.0,0.0,Neutre,neutral,Mot,other,ok,finger,auto:gcp,gcp,ok
 Munu (wa maluvu),Buveur,buveur,-4.0,-4.0,Negatif,negative,Mot,other,ok,drinker,auto:gcp,gcp,ok
 Munvui,Auditeur,auditeur,2.0,2.0,Positif,positive,Mot,other,ok,listener,auto:gcp,gcp,ok
 Munyenganganyi,Sacrilège,sacrilège,-8.0,-8.0,Negatif,negative,Mot,other,ok,sacrilege,auto:gcp,gcp,ok
 Munyengi,Ravisseur,ravisseur,-7.0,-7.0,Negatif,negative,Mot,other,ok,abductor,auto:gcp,gcp,ok
-Munyenyi,"Brigand, Larron","brigand, larron",-8.0,-8.0,Negatif,negative,Mot,other,ok,,,,
+Munyenyi,"Brigand, Larron","brigand, larron",-8.0,-8.0,Negatif,negative,Mot,other,ok,nan,,,
 "Munyingalaja
 (kuikala)",Indigné,indigné,-3.0,-3.0,Negatif,negative,Mot,other,ok,unworthy,auto:gcp,gcp,ok
 Munyingalala,Peiné,peiné,-4.0,-4.0,Negatif,negative,Mot,other,ok,penalty,auto:gcp,gcp,ok
@@ -6312,17 +6312,17 @@ Munyinyi munene wa mu mayi,Cétacé,cétacé,0.0,0.0,Neutre,neutral,Mot,other,ok
 Muomumue,Égal,égal,3.0,3.0,Positif,positive,Mot,other,ok,equal,auto:gcp,gcp,ok
 Muondapi; nganga buka,Médecin,médecin,4.0,4.0,Positif,positive,Mot,other,ok,doctor,auto:gcp,gcp,ok
 Muonji (lukanu),Câble,câble,0.0,0.0,Neutre,neutral,Mot,other,ok,cable,auto:gcp,gcp,ok
-Muosa,Poil,poil,0.0,0.0,Neutre,neutral,Mot,other,ok,hair ,auto:gcp,gcp,ok
+Muosa,Poil,poil,0.0,0.0,Neutre,neutral,Mot,other,ok,hair,auto:gcp,gcp,ok
 Muoyo,Vie,vie,5.0,5.0,Positif,positive,Mot,other,ok,life,auto:gcp,gcp,ok
 Muoyo (tshidi ne),Vif,vif,3.0,3.0,Positif,positive,Mot,other,ok,lively,auto:gcp,gcp,ok
 Muoyo (udi ne muoyo),Vivant,vivant,4.0,4.0,Positif,positive,Mot,other,ok,alive,auto:gcp,gcp,ok
-Muoyo wa tshiendelele,Vie éternelle,vie éternelle,6.0,6.0,Positif,positive,Mot,other,ok,,,,
+Muoyo wa tshiendelele,Vie éternelle,vie éternelle,6.0,6.0,Positif,positive,Mot,other,ok,nan,,,
 Mupambuishi,Séducteur,séducteur,-6.0,-6.0,Negatif,negative,Mot,other,ok,seducer,auto:gcp,gcp,ok
 Mupambuke,Errant,errant,-3.0,-3.0,Negatif,negative,Mot,other,ok,wandering,auto:gcp,gcp,ok
 Mupangi,Ignorant,ignorant,-5.0,-5.0,Negatif,negative,Mot,other,ok,ignorant,auto:gcp,gcp,ok
 Mupanyi,Vendeur,vendeur,0.0,0.0,Neutre,neutral,Mot,other,ok,seller,auto:gcp,gcp,ok
 Mupele,Nécessiteuse,nécessiteuse,-4.0,-4.0,Negatif,negative,Mot,other,ok,needy,auto:gcp,gcp,ok
-Mupendianganyi,Blasphémateur Outrageux,blasphémateur outrageux,-8.0,-8.0,Negatif,negative,Mot,other,ok,,,,
+Mupendianganyi,Blasphémateur Outrageux,blasphémateur outrageux,-8.0,-8.0,Negatif,negative,Mot,other,ok,nan,,,
 Mupenya,Éclair,éclair,0.0,0.0,Neutre,neutral,Mot,other,ok,flash,auto:gcp,gcp,ok
 Mupepele,Aisé,aisé,3.0,3.0,Positif,positive,Mot,other,ok,easy,auto:gcp,gcp,ok
 Mupia-mupia,nouvelle,nouvelle,2.0,2.0,Positif,positive,Mot,other,ok,new,auto:gcp,gcp,ok
@@ -6330,7 +6330,7 @@ Mupiamupia mu Bualu bua Nzambi (mukudimune mutshima),Converti,converti,4.0,4.0,P
 Mupianyi,Héritier,héritier,5.0,5.0,Positif,positive,Mot,other,ok,heir,auto:gcp,gcp,ok
 Mupika,Esclave,esclave,-6.0,-6.0,Negatif,negative,Mot,other,ok,slave,auto:gcp,gcp,ok
 Mupika mukaji,Servante,servante,0.0,0.0,Neutre,neutral,Mot,other,ok,servant,auto:gcp,gcp,ok
-"Mupika, muena mudimu",,,2.0,2.0,Positif,positive,Mot,other,ok,,,,
+"Mupika, muena mudimu",,nan,2.0,2.0,Positif,positive,Mot,other,ok,nan,,,
 Mupile,Coupable,coupable,-7.0,-7.0,Negatif,negative,Mot,other,ok,guilty,auto:gcp,gcp,ok
 Mupinganyi,Successeur,successeur,3.0,3.0,Positif,positive,Mot,other,ok,successor,auto:gcp,gcp,ok
 Mupote,Fou,fou,-6.0,-6.0,Negatif,negative,Mot,other,ok,mad,auto:gcp,gcp,ok
@@ -6340,7 +6340,7 @@ Mupstolo,Apôtre,apôtre,5.0,5.0,Positif,positive,Mot,other,ok,apostle,auto:gcp,
 Mupuekele,Moindre,moindre,-3.0,-3.0,Negatif,negative,Mot,other,ok,lesser,auto:gcp,gcp,ok
 Mupumbishibue,Absent,absent,-2.0,-2.0,Negatif,negative,Mot,other,ok,absent,auto:gcp,gcp,ok
 Mupuya,Odeur,odeur,0.0,0.0,Neutre,neutral,Mot,other,ok,smell,auto:gcp,gcp,ok
-Mupuya wa Nzambi,Inspiré de Dieu,inspiré de dieu,6.0,6.0,Positif,positive,Mot,other,ok,,,,
+Mupuya wa Nzambi,Inspiré de Dieu,inspiré de dieu,6.0,6.0,Positif,positive,Mot,other,ok,nan,,,
 Musadoke,Sadducéen,sadducéen,0.0,0.0,Neutre,neutral,Mot,other,ok,Sadducee,auto:gcp,gcp,ok
 Musambu,Cantique,cantique,4.0,4.0,Positif,positive,Mot,other,ok,hymn,auto:gcp,gcp,ok
 Musame,Malade,malade,-6.0,-6.0,Negatif,negative,Mot,other,ok,sick,auto:gcp,gcp,ok
@@ -6351,7 +6351,7 @@ Musangishi wa milambu,Publicain,publicain,-2.0,-2.0,Positif,positive,Mot,other,o
 Musanke (kuikala),Satisfait,satisfait,3.0,3.0,Positif,positive,Mot,other,ok,satisfied,auto:gcp,gcp,ok
 "Musanke, mupole",Content,content,4.0,4.0,Positif,positive,Mot,other,ok,thrilled,auto:gcp,gcp,ok
 "Musankididi wa
-benyi",,,4.0,4.0,Positif,positive,Mot,other,ok,,,,
+benyi",,nan,4.0,4.0,Positif,positive,Mot,other,ok,nan,,,
 Museki,Moqueur,moqueur,-5.0,-5.0,Negatif,negative,Mot,other,ok,mocking,auto:gcp,gcp,ok
 Musenji,Barbare,barbare,-6.0,-6.0,Negatif,negative,Mot,other,ok,barbarous,auto:gcp,gcp,ok
 Mushamusha,Moinea,moinea,2.0,2.0,Positif,positive,Mot,other,ok,monk,auto:gcp,gcp,ok
@@ -6366,7 +6366,7 @@ Mushindu eu,Sorte,sorte,0.0,0.0,Neutre,neutral,Mot,other,ok,sort,auto:gcp,gcp,ok
 Mushindu mubi,Injustement,injustement,-6.0,-6.0,Negatif,negative,Mot,other,ok,unfairly,auto:gcp,gcp,ok
 "Mushindu udi kawuyi
 wa Nzambi",Impiement,impiement,-7.0,-7.0,Negatif,negative,Mot,other,ok,impiety,auto:gcp,gcp,ok
-Mushindu wa kuikala,Manière d'être,manière d'être,0.0,0.0,Neutre,neutral,Mot,other,ok,,,,
+Mushindu wa kuikala,Manière d'être,manière d'être,0.0,0.0,Neutre,neutral,Mot,other,ok,nan,,,
 Mushinga,Valeur,valeur,2.0,2.0,Positif,positive,Mot,other,ok,value,auto:gcp,gcp,ok
 "Mushinga, tshuwidi, disangisha",Somme,somme,0.0,0.0,Neutre,neutral,Mot,other,ok,sum,auto:gcp,gcp,ok
 Mushintakaji,Changeur,changeur,0.0,0.0,Neutre,neutral,Mot,other,ok,changer,auto:gcp,gcp,ok
@@ -6401,14 +6401,14 @@ Mutelu (katshiyi),Couture,couture,-2.0,-2.0,Negatif,negative,Mot,other,ok,sewing
 Mutempeshi wa mbuku,Exorciste,exorciste,3.0,3.0,Positif,positive,Mot,other,ok,exorcist,auto:gcp,gcp,ok
 "Mutendeledi wa
 mpingu",Idolâtre,idolâtre,-8.0,-8.0,Negatif,negative,Mot,other,ok,idolatrous,auto:gcp,gcp,ok
-Mutentekedi,Agent secret,agent secret,-3.0,-3.0,Positif,positive,Mot,other,ok,,,,
+Mutentekedi,Agent secret,agent secret,-3.0,-3.0,Positif,positive,Mot,other,ok,nan,,,
 Muteyi,Tentateur,tentateur,-7.0,-7.0,Negatif,negative,Mot,other,ok,tempter,auto:gcp,gcp,ok
-Mutoke,,,2.0,2.0,Positif,positive,Mot,other,ok,,,,
+Mutoke,,nan,2.0,2.0,Positif,positive,Mot,other,ok,nan,,,
 Mutontolodi,Murmurateur,murmurateur,-6.0,-6.0,Negatif,negative,Mot,other,ok,murmurer,auto:gcp,gcp,ok
 Mutoto,Étoile,étoile,3.0,3.0,Positif,positive,Mot,other,ok,star,auto:gcp,gcp,ok
-Mutoto wa nkesha,Étoile du matin,étoile du matin,4.0,4.0,Positif,positive,Mot,other,ok,,,,
+Mutoto wa nkesha,Étoile du matin,étoile du matin,4.0,4.0,Positif,positive,Mot,other,ok,nan,,,
 Mutoyi,Mélodie,mélodie,3.0,3.0,Positif,positive,Mot,other,ok,melody,auto:gcp,gcp,ok
-Mutshi,Plante végétale,plante végétale,2.0,2.0,Positif,positive,Mot,other,ok,,,,
+Mutshi,Plante végétale,plante végétale,2.0,2.0,Positif,positive,Mot,other,ok,nan,,,
 Mutshi munene,Poutre,poutre,0.0,0.0,Neutre,neutral,Mot,other,ok,beam,auto:gcp,gcp,ok
 "Mutshi
 mutshiamakane",Bois,bois,0.0,0.0,Neutre,neutral,Mot,other,ok,drink,auto:gcp,gcp,ok
@@ -6440,7 +6440,7 @@ Didiundisha,Avancemen,avancemen,5.0,5.0,Positif,positive,Mot,other,ok,advancemen
 Dieba,Épine,épine,-4.0,-4.0,Negatif,negative,Mot,other,ok,spiked,auto:gcp,gcp,ok
 Diedibua dia manyi,Onction,onction,5.0,5.0,Positif,positive,Mot,other,ok,anointing,auto:gcp,gcp,ok
 Dienza,Opérant,opérant,3.0,3.0,Positif,positive,Mot,other,ok,operating,auto:gcp,gcp,ok
-Dienzeja dia dipambuka,Énergie d'erreur,énergie d'erreur,-6.0,-6.0,Negatif,negative,Mot,other,ok,,,,
+Dienzeja dia dipambuka,Énergie d'erreur,énergie d'erreur,-6.0,-6.0,Negatif,negative,Mot,other,ok,nan,,,
 Dienzejibua ku bukole,Contrainte,contrainte,-3.0,-3.0,Negatif,negative,Mot,other,ok,constraint,auto:gcp,gcp,ok
 Difika dia munda,Courroux,courroux,-7.0,-7.0,Negatif,negative,Mot,other,ok,wrath,auto:gcp,gcp,ok
 Difikisha munda,Irritation,irritation,0.0,0.0,Negatif,negative,Mot,other,ok,irritation,auto:gcp,gcp,ok
@@ -6486,7 +6486,7 @@ Dikudimuka,Variation,variation,-1.0,-1.0,Positif,positive,Mot,other,ok,variation
 Dikudimuna,Changement,changement,1.0,1.0,Positif,positive,Mot,other,ok,change,auto:gcp,gcp,ok
 Dikudimuna dia mutshima,Repentance,repentance,4.0,4.0,Positif,positive,Mot,other,ok,repentance,auto:gcp,gcp,ok
 "Dikuma dia mutshima bipeta mu
-njila mibi",Avide d'un gain honteux,avide d'un gain honteux,-7.0,-7.0,Negatif,negative,Mot,other,ok,,,,
+njila mibi",Avide d'un gain honteux,avide d'un gain honteux,-7.0,-7.0,Negatif,negative,Mot,other,ok,nan,,,
 Dikuma dia mutshima ku biuma,Avarice,avarice,-6.0,-6.0,Negatif,negative,Mot,other,ok,avarice,auto:gcp,gcp,ok
 Dikumbana,Accomplissement ,accomplissement,5.0,5.0,Positif,positive,Mot,other,ok,accomplishment,auto:gcp,gcp,ok
 Dikumi,Dix,dix,0.0,0.0,Neutre,neutral,Mot,other,ok,ten,auto:gcp,gcp,ok
@@ -6501,7 +6501,7 @@ Dikunza,Roux,roux,0.0,0.0,Neutre,neutral,Mot,other,ok,redhead,auto:gcp,gcp,ok
 Dikuta,Monnaie,monnaie,0.0,0.0,Neutre,neutral,Mot,other,ok,cash,auto:gcp,gcp,ok
 Dikuta dikese,Sou,sou,0.0,0.0,Neutre,neutral,Mot,other,ok,penny,auto:gcp,gcp,ok
 Diledibua kua tshiakabidi,Régénération,régénération,5.0,5.0,Positif,positive,Mot,other,ok,regeneration,auto:gcp,gcp,ok
-Dileja dia mampa,Propositions des pains,propositions des pains,2.0,2.0,Positif,positive,Mot,other,ok,,,,
+Dileja dia mampa,Propositions des pains,propositions des pains,2.0,2.0,Positif,positive,Mot,other,ok,nan,,,
 Dileja tshilema,Reproche,reproche,-4.0,-4.0,Negatif,negative,Mot,other,ok,reproach,auto:gcp,gcp,ok
 "Dilelela, tshidi tshia kueyemenyibua",Certain,certain,2.0,2.0,Positif,positive,Mot,other,ok,certain,auto:gcp,gcp,ok
 Dilengeja,Purification,purification,4.0,4.0,Positif,positive,Mot,other,ok,purification,auto:gcp,gcp,ok
@@ -6538,7 +6538,7 @@ Dinanga,Amour,amour,6.0,6.0,Positif,positive,Mot,other,ok,love,auto:gcp,gcp,ok
 "Dinanga, Kusua (kuimpe)",Affection ,affection,5.0,5.0,Positif,positive,Mot,other,ok,affection,auto:gcp,gcp,ok
 Dinanukila,Persévérer,persévérer,4.0,4.0,Positif,positive,Mot,other,ok,persevere,auto:gcp,gcp,ok
 Dinda,Matin,matin,2.0,2.0,Positif,positive,Mot,other,ok,Morning,auto:gcp,gcp,ok
-Dinda,Point du jour,point du jour,2.0,2.0,Positif,positive,Mot,other,ok,,,,
+Dinda,Point du jour,point du jour,2.0,2.0,Positif,positive,Mot,other,ok,nan,,,
 Dinemekela,Révérence,révérence,4.0,4.0,Positif,positive,Mot,other,ok,reverence,auto:gcp,gcp,ok
 Dinkenke,Splendeur,splendeur,5.0,5.0,Positif,positive,Mot,other,ok,splendor,auto:gcp,gcp,ok
 Dinowa,Moisson,moisson,3.0,3.0,Positif,positive,Mot,other,ok,harvest,auto:gcp,gcp,ok
@@ -6554,11 +6554,11 @@ Dinyoka,Sentence,sentence,5.0,5.0,Positif,positive,Mot,other,ok,sentence,auto:gc
 Dinyunguluka,Tour,tour,0.0,0.0,Neutre,neutral,Mot,other,ok,round,auto:gcp,gcp,ok
 Diondoka,Profond,profond,2.0,2.0,Positif,positive,Mot,other,ok,deep,auto:gcp,gcp,ok
 Dipa,Don,don,5.0,5.0,Positif,positive,Mot,other,ok,Don,auto:gcp,gcp,ok
-Dipa dia luse,Don de grâce,don de grâce,6.0,6.0,Positif,positive,Mot,other,ok,,,,
+Dipa dia luse,Don de grâce,don de grâce,6.0,6.0,Positif,positive,Mot,other,ok,nan,,,
 Dipambuisha,Séduction,séduction,-6.0,-6.0,Negatif,negative,Mot,other,ok,seduction,auto:gcp,gcp,ok
 Dipambuka,Égarement,égarement,-7.0,-7.0,Negatif,negative,Mot,other,ok,misguidance,auto:gcp,gcp,ok
 Dipandulula,Division,division,-4.0,-4.0,Negatif,negative,Mot,other,ok,division,auto:gcp,gcp,ok
-Dipanga dia kudikanda,Sans voix,sans voix,-6.0,-6.0,Negatif,negative,Verbe,verb,ok,,,,
+Dipanga dia kudikanda,Sans voix,sans voix,-6.0,-6.0,Negatif,negative,Verbe,verb,ok,nan,,,
 Dipanga dikuatshisha,Inutilité,inutilité,-5.0,-5.0,Negatif,negative,Mot,other,ok,uselessness,auto:gcp,gcp,ok
 Dipanga dinyanguka,Incorruptibilité,incorruptibilité,6.0,6.0,Positif,positive,Mot,other,ok,incorruptibility,auto:gcp,gcp,ok
 Dipangadija,Propos,propos,0.0,0.0,Neutre,neutral,Mot,other,ok,about,auto:gcp,gcp,ok
@@ -6566,17 +6566,17 @@ Dipatuka,Sortie,sortie,0.0,0.0,Neutre,neutral,Mot,other,ok,exit,auto:gcp,gcp,ok
 Dipeta,Acquisition,acquisition,3.0,3.0,Positif,positive,Mot,other,ok,acquisition,auto:gcp,gcp,ok
 Dipetu,Mépris,mépris,-8.0,-8.0,Negatif,negative,Mot,other,ok,contempt,auto:gcp,gcp,ok
 Dipikula,Rédemption,rédemption,6.0,6.0,Positif,positive,Mot,other,ok,redemption,auto:gcp,gcp,ok
-Dipila,Se donner,se donner,-7.0,-7.0,Negatif,negative,Verbe,verb,ok,,,,
+Dipila,Se donner,se donner,-7.0,-7.0,Negatif,negative,Verbe,verb,ok,nan,,,
 "Dipingana, dipingaja",Retour,retour,2.0,2.0,Positif,positive,Mot,other,ok,back,auto:gcp,gcp,ok
 Dipita (bukole),Victoire,victoire,6.0,6.0,Positif,positive,Mot,other,ok,victory,auto:gcp,gcp,ok
 Dipumbisha,Obstacle,obstacle,-3.0,-3.0,Negatif,negative,Mot,other,ok,obstacle,auto:gcp,gcp,ok
 Dipumbishibua,Absence,absence,-2.0,-2.0,Negatif,negative,Mot,other,ok,absence,auto:gcp,gcp,ok
-Dipunga diyi,Consentement mutuel,consentement mutuel,4.0,4.0,Positif,positive,Mot,other,ok,,,,
+Dipunga diyi,Consentement mutuel,consentement mutuel,4.0,4.0,Positif,positive,Mot,other,ok,nan,,,
 Dipungi,Fatigue ,fatigue,-3.0,-3.0,Negatif,negative,Mot,other,ok,fatigue,auto:gcp,gcp,ok
 Dipuyakana,Respiration,respiration,2.0,2.0,Positif,positive,Mot,other,ok,breathing,auto:gcp,gcp,ok
 Disakidila,Gratitude,gratitude,5.0,5.0,Positif,positive,Mot,other,ok,gratitude,auto:gcp,gcp,ok
 Disalayi,Satellite,satellite,0.0,0.0,Neutre,neutral,Mot,other,ok,satellite,auto:gcp,gcp,ok
-Disalayi dilami dia tshitudilu,Préfet du prétoire,préfet du prétoire,0.0,0.0,Neutre,neutral,Mot,other,ok,,,,
+Disalayi dilami dia tshitudilu,Préfet du prétoire,préfet du prétoire,0.0,0.0,Neutre,neutral,Mot,other,ok,nan,,,
 Disama,Fléau,fléau,-8.0,-8.0,Negatif,negative,Mot,other,ok,scourge,auto:gcp,gcp,ok
 Disama dia mashi apatuka,Flux,flux,-2.0,-2.0,Positif,positive,Mot,other,ok,flow,auto:gcp,gcp,ok
 Disama dia mubidi kapia,Fièvre,fièvre,-5.0,-5.0,Negatif,negative,Mot,other,ok,fever,auto:gcp,gcp,ok
@@ -6585,7 +6585,7 @@ Disambi,Consolation,consolation,4.0,4.0,Positif,positive,Mot,other,ok,consolatio
 Disangisha,Rassemblement,rassemblement,2.0,2.0,Positif,positive,Mot,other,ok,gathering,auto:gcp,gcp,ok
 Disangisha dia bintu,Collecte,collecte,1.0,1.0,Neutre,neutral,Mot,other,ok,collection,auto:gcp,gcp,ok
 Disanka,Plaisir,plaisir,6.0,6.0,Positif,positive,Mot,other,ok,pleasure,auto:gcp,gcp,ok
-Disanka (dia dijidila dia ntempelo),Grande joie,grande joie,5.0,5.0,Positif,positive,Mot,other,ok,,,,
+Disanka (dia dijidila dia ntempelo),Grande joie,grande joie,5.0,5.0,Positif,positive,Mot,other,ok,nan,,,
 Disanka (ne),Joyeusement,joyeusement,4.0,4.0,Positif,positive,Mot,other,ok,happily,auto:gcp,gcp,ok
 Disanka dia muoyo,Volupté,volupté,2.0,2.0,Positif,positive,Mot,other,ok,voluptuousness,auto:gcp,gcp,ok
 Disanka dinene (ne),Transpor,transpor,0.0,0.0,Neutre,neutral,Mot,other,ok,transport,auto:gcp,gcp,ok
@@ -6606,10 +6606,10 @@ Dituaya,Tablier,tablier,0.0,0.0,Neutre,neutral,Mot,other,ok,apron,auto:gcp,gcp,o
 Dituayi,Mouchoir,mouchoir,0.0,0.0,Neutre,neutral,Mot,other,ok,handkerchief,auto:gcp,gcp,ok
 Ditubula,Pénétrant,pénétrant,1.0,1.0,Positif,positive,Mot,other,ok,penetrating,auto:gcp,gcp,ok
 Dituku,Jour,jour,2.0,2.0,Positif,positive,Mot,other,ok,day,auto:gcp,gcp,ok
-Dituku dia Diledibua,Anniversaire de naissance,anniversaire de naissance,3.0,3.0,Positif,positive,Mot,other,ok,,,,
+Dituku dia Diledibua,Anniversaire de naissance,anniversaire de naissance,3.0,3.0,Positif,positive,Mot,other,ok,nan,,,
 Dituku dia disanka,Fête,fête,4.0,4.0,Positif,positive,Mot,other,ok,party,auto:gcp,gcp,ok
 "Dituku dia
-Mukelenge",Jour du Seigneur,jour du seigneur,5.0,5.0,Positif,positive,Mot,other,ok,,,,
+Mukelenge",Jour du Seigneur,jour du seigneur,5.0,5.0,Positif,positive,Mot,other,ok,nan,,,
 Ditumbisha,Louange,louange,6.0,6.0,Positif,positive,Mot,other,ok,praise,auto:gcp,gcp,ok
 Ditumikila,Soumission,soumission,3.0,3.0,Positif,positive,Mot,other,ok,submission,auto:gcp,gcp,ok
 Ditupakana,Ignorance,ignorance,-5.0,-5.0,Negatif,negative,Mot,other,ok,ignorance,auto:gcp,gcp,ok
@@ -6635,7 +6635,7 @@ Diyu,Œuf,œuf,0.0,0.0,Neutre,neutral,Mot,other,ok,egg,auto:gcp,gcp,ok
 menemene)",Certes,certes,0.0,0.0,Neutre,neutral,Mot,other,ok,certainly,auto:gcp,gcp,ok
 Ekola,École,école,3.0,3.0,Positif,positive,Mot,other,ok,school,auto:gcp,gcp,ok
 "Eku ne eku
-(Kutangadika)",Ça et là,ça et là,0.0,0.0,Neutre,neutral,Mot,other,ok,,,,
+(Kutangadika)",Ça et là,ça et là,0.0,0.0,Neutre,neutral,Mot,other,ok,nan,,,
 Emeraude,Émeraude,émeraude,2.0,2.0,Positif,positive,Mot,other,ok,emerald,auto:gcp,gcp,ok
 Epikuleo,Épicurien,épicurien,5.0,5.0,Positif,positive,Mot,other,ok,epicurean,auto:gcp,gcp,ok
 Esete,Orient,orient,1.0,1.0,Neutre,neutral,Mot,other,ok,East,auto:gcp,gcp,ok
@@ -6719,7 +6719,7 @@ Kujibika,Boucher ,boucher,3.0,3.0,Positif,positive,Verbe,verb,ok,butcher,auto:gc
 Kujidila,Consacrer,consacrer,2.0,2.0,Positif,positive,Mot,other,ok,to devote,auto:gcp,gcp,ok
 Kujika,Défaillir,défaillir,3.0,3.0,Positif,positive,Verbe,verb,ok,to faint,auto:gcp,gcp,ok
 Kujikija,Accomplir,accomplir,4.0,4.0,Positif,positive,Verbe,verb,ok,accomplish,auto:gcp,gcp,ok
-Kujikuila,,,1.0,1.0,Positif,positive,Verbe,verb,ok,,,,
+Kujikuila,,nan,1.0,1.0,Positif,positive,Verbe,verb,ok,nan,,,
 Kujila kua bia kudia,Jeûner,jeûner,-7.0,-7.0,Negatif,negative,Verbe,verb,ok,fast,auto:gcp,gcp,ok
 Kujima,Éteindre,éteindre,2.0,2.0,Positif,positive,Verbe,verb,ok,turn off,auto:gcp,gcp,ok
 Kujimija,Abolition,abolition,1.0,1.0,Positif,positive,Verbe,verb,ok,abolition,auto:gcp,gcp,ok
@@ -6744,7 +6744,7 @@ Kukeba ne lukunukunu,Rechercher,rechercher,2.0,2.0,Positif,positive,Verbe,verb,o
 Kukebulula,Sonder,sonder,2.0,2.0,Positif,positive,Verbe,verb,ok,probe,auto:gcp,gcp,ok
 Kukema,Ému ,ému,2.0,2.0,Positif,positive,Verbe,verb,ok,moved,auto:gcp,gcp,ok
 Kukemesha,Étonne,étonne,2.0,2.0,Positif,positive,Verbe,verb,ok,surprised,auto:gcp,gcp,ok
-Kukenga,"Souffrir, Subir","souffrir, subir",-4.0,-4.0,Negatif,negative,Mot,other,ok,,,,
+Kukenga,"Souffrir, Subir","souffrir, subir",-4.0,-4.0,Negatif,negative,Mot,other,ok,nan,,,
 Kukenga (bikole),Cruellement,cruellement,-4.0,-4.0,Negatif,negative,Mot,other,ok,cruelly,auto:gcp,gcp,ok
 "Kukengela, kuikala bikengela",Falloir,falloir,-4.0,-4.0,Negatif,negative,Mot,other,ok,to need,auto:gcp,gcp,ok
 Kukengesha,Dévaster,dévaster,1.0,1.0,Positif,positive,Mot,other,ok,devastate,auto:gcp,gcp,ok
@@ -6759,7 +6759,7 @@ Kukoka,Tirer,tirer,2.0,2.0,Positif,positive,Verbe,verb,ok,to pull,auto:gcp,gcp,o
 Kukokela,Assujettir,assujettir,2.0,2.0,Positif,positive,Verbe,verb,ok,subject,auto:gcp,gcp,ok
 Kukokesha,Alimenter,alimenter,2.0,2.0,Positif,positive,Mot,other,ok,feed,auto:gcp,gcp,ok
 Kukolesha,Affermir,affermir,-3.0,-3.0,Negatif,negative,Mot,other,ok,to strengthen,auto:gcp,gcp,ok
-Kukolesha (mutshima),son cœur,son cœur,6.0,6.0,Positif,positive,Mot,other,ok,,,,
+Kukolesha (mutshima),son cœur,son cœur,6.0,6.0,Positif,positive,Mot,other,ok,nan,,,
 Kukolesha kua mutshima,Courage,courage,3.0,3.0,Positif,positive,Verbe,verb,ok,courage,auto:gcp,gcp,ok
 Kukomba,Balayer,balayer,-9.0,-9.0,Negatif,negative,Mot,other,ok,sweep,auto:gcp,gcp,ok
 Kukonka,Interroger,interroger,1.0,1.0,Positif,positive,Verbe,verb,ok,to question,auto:gcp,gcp,ok
@@ -6778,7 +6778,7 @@ Kukuatshika,Enivrer,enivrer,-3.0,-3.0,Negatif,negative,Verbe,verb,ok,to intoxica
 Kukuatshika ne (… buowa),Emparer ,emparer,4.0,4.0,Positif,positive,Verbe,verb,ok,seize,auto:gcp,gcp,ok
 Kukuatshisha,Aider,aider,-2.0,-2.0,Negatif,negative,Verbe,verb,ok,help,auto:gcp,gcp,ok
 Kukuatshisha (ne bintu),Kukuatshisha ,kukuatshisha,-1.0,-1.0,Negatif,negative,Verbe,verb,ok,kukuatshisha,auto:gcp,gcp,ok
-Kukuatshisha ku didiunda,Contribuer à l'avancement,contribuer à l'avancement,-6.0,-6.0,Negatif,negative,Verbe,verb,ok,,,,
+Kukuatshisha ku didiunda,Contribuer à l'avancement,contribuer à l'avancement,-6.0,-6.0,Negatif,negative,Verbe,verb,ok,nan,,,
 Kukuba,Épargner,épargner,2.0,2.0,Positif,positive,Verbe,verb,ok,save,auto:gcp,gcp,ok
 Kukudika,Pendre,pendre,2.0,2.0,Positif,positive,Verbe,verb,ok,hang,auto:gcp,gcp,ok
 Kukudimuka,Convertir,convertir,2.0,2.0,Positif,positive,Verbe,verb,ok,convert,auto:gcp,gcp,ok
@@ -6805,7 +6805,7 @@ Kukupa mutu,Hocher,hocher,4.0,4.0,Positif,positive,Verbe,verb,ok,nod,auto:gcp,gc
 Kukupula,Essuyer,essuyer,4.0,4.0,Positif,positive,Verbe,verb,ok,to wipe,auto:gcp,gcp,ok
 Kukuta (ku meyi …),Surprendre,surprendre,4.0,4.0,Positif,positive,Verbe,verb,ok,surprise,auto:gcp,gcp,ok
 Kukutshisha,Rassasier,rassasier,4.0,4.0,Positif,positive,Verbe,verb,ok,to satiate,auto:gcp,gcp,ok
-Kûla,"Emplir, Enfler","emplir, enfler",-7.0,-7.0,Negatif,negative,Mot,other,ok,,,,
+Kûla,"Emplir, Enfler","emplir, enfler",-7.0,-7.0,Negatif,negative,Mot,other,ok,nan,,,
 Kula diyi bikole,Écrier ,écrier,-5.0,-5.0,Negatif,negative,Verbe,verb,ok,to write,auto:gcp,gcp,ok
 Kûla kua musulu,Inondation,inondation,4.0,4.0,Positif,positive,Verbe,verb,ok,flood,auto:gcp,gcp,ok
 Kulaba,Embaumer,embaumer,4.0,4.0,Positif,positive,Verbe,verb,ok,embalm,auto:gcp,gcp,ok
@@ -6827,7 +6827,7 @@ Kulaya,Ajourner,ajourner,-5.0,-5.0,Negatif,negative,Verbe,verb,ok,adjourn,auto:g
 Kulayidila,Excuser,excuser,3.0,3.0,Positif,positive,Verbe,verb,ok,excuse,auto:gcp,gcp,ok
 Kule (udi),Éloigné,éloigné,3.0,3.0,Positif,positive,Verbe,verb,ok,distant,auto:gcp,gcp,ok
 Kuledibua,Naissance,naissance,3.0,3.0,Positif,positive,Verbe,verb,ok,birth,auto:gcp,gcp,ok
-Kuledibua kua tshiakabidi,Naître de nouveau,naître de nouveau,3.0,3.0,Positif,positive,Verbe,verb,ok,,,,
+Kuledibua kua tshiakabidi,Naître de nouveau,naître de nouveau,3.0,3.0,Positif,positive,Verbe,verb,ok,nan,,,
 Kuleja,Indiquer,indiquer,3.0,3.0,Positif,positive,Verbe,verb,ok,indicate,auto:gcp,gcp,ok
 Kuleja tshilema,Reprocher,reprocher,3.0,3.0,Positif,positive,Verbe,verb,ok,to reproach,auto:gcp,gcp,ok
 Kulekela,Abandon,abandon,3.0,3.0,Positif,positive,Verbe,verb,ok,abandon,auto:gcp,gcp,ok
@@ -6857,7 +6857,7 @@ Butekete,Faiblesse,faiblesse,-5.0,-5.0,Negatif,negative,Mot,other,ok,weakness,au
 Kulenduka,Faillir,faillir,-7.0,-7.0,Negatif,negative,Verbe,verb,ok,fail,auto:gcp,gcp,ok
 Nzala,Faim,faim,-3.0,-3.0,Negatif,negative,Mot,other,ok,hunger,auto:gcp,gcp,ok
 Kuenza,Faire,faire,1.0,1.0,Positif,positive,Verbe,verb,ok,TO DO,auto:gcp,gcp,ok
-Kunfila,Faire la conduite,faire la conduite,-2.0,-2.0,Negatif,negative,Mot,other,ok,,,,
+Kunfila,Faire la conduite,faire la conduite,-2.0,-2.0,Negatif,negative,Mot,other,ok,nan,,,
 Muenji,Faiseur,faiseur,0.0,0.0,Neutre,neutral,Mot,other,ok,maker,auto:gcp,gcp,ok
 Bienzedi,Fait,fait,2.0,2.0,Positif,positive,Mot,other,ok,do,auto:gcp,gcp,ok
 Musonga,Faîte,faîte,1.0,1.0,Positif,positive,Mot,other,ok,done,auto:gcp,gcp,ok
@@ -6879,7 +6879,7 @@ Luse,Faveur,faveur,6.0,6.0,Positif,positive,Mot,other,ok,favor,auto:gcp,gcp,ok
 Diakane,Favorable,favorable,7.0,7.0,Positif,positive,Mot,other,ok,favorable,auto:gcp,gcp,ok
 Kudinga,Feindre,feindre,-6.0,-6.0,Negatif,negative,Verbe,verb,ok,pretend,auto:gcp,gcp,ok
 Bakaji,Femelle,femelle,0.0,0.0,Neutre,neutral,Mot,other,ok,female,auto:gcp,gcp,ok
-Butekete,Féminin,féminin,2.0,2.0,Positif,positive,,,needs_spotcheck,,,,
+Butekete,Féminin,féminin,2.0,2.0,Positif,positive,,nan,needs_spotcheck,nan,,,
 Mukaji,Femme,femme,3.0,3.0,Positif,positive,Mot,other,ok,women,auto:gcp,gcp,ok
 Muntu udi mupudikile,Femmelette,femmelette,-5.0,-5.0,Negatif,negative,Mot,other,ok,sissy,auto:gcp,gcp,ok
 Kupanda,Fendre,fendre,-2.0,-2.0,Negatif,negative,Verbe,verb,ok,split,auto:gcp,gcp,ok
@@ -6907,17 +6907,17 @@ Nfigi,Figue,figue,2.0,2.0,Positif,positive,Mot,other,ok,fig,auto:gcp,gcp,ok
 Mutshi wa Nfigi,Figuier,figuier,1.0,1.0,Positif,positive,Mot,other,ok,fig tree,auto:gcp,gcp,ok
 Mubidi,Figure,figure,0.0,0.0,Neutre,neutral,Mot,other,ok,figure,auto:gcp,gcp,ok
 Kusala buanda,Filer,filer,0.0,0.0,Neutre,neutral,Verbe,verb,ok,spin,auto:gcp,gcp,ok
-Bukondo,Filet piège,filet piège,-6.0,-6.0,Negatif,negative,Mot,other,ok,,,,
+Bukondo,Filet piège,filet piège,-6.0,-6.0,Negatif,negative,Mot,other,ok,nan,,,
 Tupamba,Filet,filet,0.0,0.0,Neutre,neutral,Mot,other,ok,net,auto:gcp,gcp,ok
 Muana mukaji,Fille,fille,3.0,3.0,Positif,positive,Mot,other,ok,girl,auto:gcp,gcp,ok
 Muana mulume,Fils,fils,3.0,3.0,Positif,positive,Mot,other,ok,son,auto:gcp,gcp,ok
-Bana ba tshikondo,Fils de ce siècle,fils de ce siècle,-2.0,-2.0,Negatif,negative,Mot,other,ok,,,,
-Mulunda wa mubaki,Fils de la chambre nuptiale,fils de la chambre nuptiale,5.0,5.0,Positif,positive,Mot,other,ok,,,,
-Muana wa mu ngena,Fils de la géhenne,fils de la géhenne,-9.0,-9.0,Très Negatif,very_negative,Mot,other,ok,,,,
-Muana wa munya,Fils de la lumière,fils de la lumière,7.0,7.0,Très Positif,very_positive,Mot,other,ok,,,,
-Muana wa dibutuka,Fils de perdition,fils de perdition,-8.0,-8.0,Très Negatif,very_negative,Mot,other,ok,,,,
-Bana ba dituku,Fils du jour,fils du jour,6.0,6.0,Positif,positive,Mot,other,ok,,,,
-Line mulengele,Fin lin,fin lin,2.0,2.0,Positif,positive,Mot,other,ok,,,,
+Bana ba tshikondo,Fils de ce siècle,fils de ce siècle,-2.0,-2.0,Negatif,negative,Mot,other,ok,nan,,,
+Mulunda wa mubaki,Fils de la chambre nuptiale,fils de la chambre nuptiale,5.0,5.0,Positif,positive,Mot,other,ok,nan,,,
+Muana wa mu ngena,Fils de la géhenne,fils de la géhenne,-9.0,-9.0,Très Negatif,very_negative,Mot,other,ok,nan,,,
+Muana wa munya,Fils de la lumière,fils de la lumière,7.0,7.0,Très Positif,very_positive,Mot,other,ok,nan,,,
+Muana wa dibutuka,Fils de perdition,fils de perdition,-8.0,-8.0,Très Negatif,very_negative,Mot,other,ok,nan,,,
+Bana ba dituku,Fils du jour,fils du jour,6.0,6.0,Positif,positive,Mot,other,ok,nan,,,
+Line mulengele,Fin lin,fin lin,2.0,2.0,Positif,positive,Mot,other,ok,nan,,,
 Nhikidilu,Fin,fin,0.0,0.0,Neutre,neutral,Mot,other,ok,END,auto:gcp,gcp,ok
 Budimu,Finesse,finesse,4.0,4.0,Positif,positive,Mot,other,ok,finesse,auto:gcp,gcp,ok
 Kulekela,Finir,finir,0.0,0.0,Neutre,neutral,Verbe,verb,ok,finish,auto:gcp,gcp,ok
@@ -6962,7 +6962,7 @@ Mukole,Fortement,fortement,3.0,3.0,Positif,positive,Mot,other,ok,strongly,auto:g
 Nzubu wa masalayi,Forteresse,forteresse,2.0,2.0,Positif,positive,Mot,other,ok,fortress,auto:gcp,gcp,ok
 Kukolesha,Fortifier,fortifier,3.0,3.0,Positif,positive,Verbe,verb,ok,strengthen,auto:gcp,gcp,ok
 Dina,Fosse,fosse,-5.0,-5.0,Negatif,negative,Mot,other,ok,ditch,auto:gcp,gcp,ok
-Mupote,"Fou, folle","fou, folle",-6.0,-6.0,Negatif,negative,Mot,other,ok,,,,
+Mupote,"Fou, folle","fou, folle",-6.0,-6.0,Negatif,negative,Mot,other,ok,nan,,,
 Lufimbu,Fouet,fouet,-4.0,-4.0,Negatif,negative,Mot,other,ok,whip,auto:gcp,gcp,ok
 Kututa,Fouetter,fouetter,-5.0,-5.0,Negatif,negative,Verbe,verb,ok,whip,auto:gcp,gcp,ok
 Kuimba,Fouir,fouir,0.0,0.0,Neutre,neutral,Verbe,verb,ok,to dig,auto:gcp,gcp,ok
@@ -7010,11 +7010,11 @@ Tshibandilu,Degré,degré,0.0,0.0,Neutre,neutral,Mot,other,ok,degree,auto:gcp,gc
 Tshibangidilu,Commencement,commencement,6.0,6.0,Positif,positive,Mot,other,ok,beginning,auto:gcp,gcp,ok
 Tshibangu,Bâton,bâton,0.0,0.0,Neutre,neutral,Mot,other,ok,stick,auto:gcp,gcp,ok
 Tshibelu,Cuisse,cuisse,0.0,0.0,Neutre,neutral,Mot,other,ok,thigh,auto:gcp,gcp,ok
-Tshibi,"Mal, Mauvais","mal, mauvais",-6.0,-6.0,Negatif,negative,Mot,other,ok,,,,
+Tshibi,"Mal, Mauvais","mal, mauvais",-6.0,-6.0,Negatif,negative,Mot,other,ok,nan,,,
 Tshibipe,Impur,impur,-6.0,-6.0,Negatif,negative,Mot,other,ok,impure,auto:gcp,gcp,ok
 Tshibishi,Vert,vert,5.0,5.0,Positif,positive,Mot,other,ok,Green,auto:gcp,gcp,ok
 Tshibobe,Maturité,maturité,6.0,6.0,Positif,positive,Mot,other,ok,maturity,auto:gcp,gcp,ok
-Tshibombu,Bourse,bourse,0.0,0.0,Neutre,neutral,Mot,other,ok,sotck exchange ,auto:gcp,gcp,ok
+Tshibombu,Bourse,bourse,0.0,0.0,Neutre,neutral,Mot,other,ok,sotck exchange,auto:gcp,gcp,ok
 Tshibueledi,Accès,accès,5.0,5.0,Positif,positive,Mot,other,ok,access,auto:gcp,gcp,ok
 Tshibuikilu (tshia mushete wa tshipungidi),Propitiatoire,propitiatoire,2.0,2.0,Positif,positive,Mot,other,ok,propitiatory,auto:gcp,gcp,ok
 Tshibuikilu tshia pa shiadi,Cuirasse,cuirasse,5.0,5.0,Positif,positive,Mot,other,ok,armor,auto:gcp,gcp,ok
