@@ -36,6 +36,10 @@ gcp/*.json
 Connor/gcp/sa-key.json
 Connor/gcp/*.json
 
+#Morris Service Account Key
+*-service-account*.json
+skillful-hope-*.json
+
 # --- Tool caches / reports ---
 # Translator cache file
 data/processed/cache_translations_en.json
